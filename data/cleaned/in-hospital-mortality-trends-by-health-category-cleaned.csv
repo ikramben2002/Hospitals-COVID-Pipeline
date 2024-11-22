@@ -1,0 +1,2244 @@
+Date,Category,Setting,Count
+2018-05-01,anxiety,ambulatory surgery,1
+2018-09-01,anxiety,ambulatory surgery,1
+2018-10-01,anxiety,ambulatory surgery,1
+2019-01-01,anxiety,ambulatory surgery,1
+2019-06-01,anxiety,ambulatory surgery,1
+2020-02-01,anxiety,ambulatory surgery,1
+2020-03-01,anxiety,ambulatory surgery,1
+2020-04-01,anxiety,ambulatory surgery,1
+2020-07-01,anxiety,ambulatory surgery,1
+2020-10-01,anxiety,ambulatory surgery,1
+2021-02-01,anxiety,ambulatory surgery,2
+2021-03-01,anxiety,ambulatory surgery,1
+2021-05-01,anxiety,ambulatory surgery,1
+2021-08-01,anxiety,ambulatory surgery,1
+2021-12-01,anxiety,ambulatory surgery,3
+2018-08-01,asthma,ambulatory surgery,1
+2018-09-01,asthma,ambulatory surgery,1
+2018-11-01,asthma,ambulatory surgery,1
+2019-09-01,asthma,ambulatory surgery,1
+2019-10-01,asthma,ambulatory surgery,1
+2020-06-01,asthma,ambulatory surgery,1
+2020-07-01,asthma,ambulatory surgery,1
+2021-04-01,asthma,ambulatory surgery,1
+2021-06-01,asthma,ambulatory surgery,1
+2021-12-01,asthma,ambulatory surgery,1
+2018-01-01,cancer,ambulatory surgery,2
+2018-02-01,cancer,ambulatory surgery,1
+2018-05-01,cancer,ambulatory surgery,1
+2018-07-01,cancer,ambulatory surgery,3
+2018-08-01,cancer,ambulatory surgery,2
+2018-09-01,cancer,ambulatory surgery,2
+2018-10-01,cancer,ambulatory surgery,1
+2019-01-01,cancer,ambulatory surgery,1
+2019-02-01,cancer,ambulatory surgery,3
+2019-04-01,cancer,ambulatory surgery,2
+2019-07-01,cancer,ambulatory surgery,2
+2019-08-01,cancer,ambulatory surgery,1
+2019-09-01,cancer,ambulatory surgery,2
+2019-10-01,cancer,ambulatory surgery,1
+2019-11-01,cancer,ambulatory surgery,1
+2020-03-01,cancer,ambulatory surgery,1
+2020-04-01,cancer,ambulatory surgery,1
+2020-07-01,cancer,ambulatory surgery,1
+2020-08-01,cancer,ambulatory surgery,1
+2020-10-01,cancer,ambulatory surgery,1
+2020-12-01,cancer,ambulatory surgery,1
+2021-04-01,cancer,ambulatory surgery,1
+2021-05-01,cancer,ambulatory surgery,1
+2021-06-01,cancer,ambulatory surgery,1
+2021-07-01,cancer,ambulatory surgery,1
+2021-08-01,cancer,ambulatory surgery,1
+2021-10-01,cancer,ambulatory surgery,2
+2021-11-01,cancer,ambulatory surgery,2
+2018-01-01,cardiac arrest,ambulatory surgery,4
+2018-02-01,cardiac arrest,ambulatory surgery,3
+2018-03-01,cardiac arrest,ambulatory surgery,2
+2018-04-01,cardiac arrest,ambulatory surgery,4
+2018-05-01,cardiac arrest,ambulatory surgery,3
+2018-06-01,cardiac arrest,ambulatory surgery,5
+2018-07-01,cardiac arrest,ambulatory surgery,2
+2018-08-01,cardiac arrest,ambulatory surgery,2
+2018-09-01,cardiac arrest,ambulatory surgery,2
+2018-10-01,cardiac arrest,ambulatory surgery,4
+2018-12-01,cardiac arrest,ambulatory surgery,3
+2019-01-01,cardiac arrest,ambulatory surgery,2
+2019-02-01,cardiac arrest,ambulatory surgery,1
+2019-03-01,cardiac arrest,ambulatory surgery,2
+2019-04-01,cardiac arrest,ambulatory surgery,4
+2019-05-01,cardiac arrest,ambulatory surgery,4
+2019-06-01,cardiac arrest,ambulatory surgery,2
+2019-07-01,cardiac arrest,ambulatory surgery,1
+2019-08-01,cardiac arrest,ambulatory surgery,3
+2019-09-01,cardiac arrest,ambulatory surgery,1
+2019-10-01,cardiac arrest,ambulatory surgery,2
+2020-01-01,cardiac arrest,ambulatory surgery,1
+2020-02-01,cardiac arrest,ambulatory surgery,2
+2020-03-01,cardiac arrest,ambulatory surgery,2
+2020-04-01,cardiac arrest,ambulatory surgery,4
+2020-05-01,cardiac arrest,ambulatory surgery,2
+2020-06-01,cardiac arrest,ambulatory surgery,1
+2020-08-01,cardiac arrest,ambulatory surgery,1
+2020-09-01,cardiac arrest,ambulatory surgery,1
+2020-10-01,cardiac arrest,ambulatory surgery,4
+2020-11-01,cardiac arrest,ambulatory surgery,3
+2020-12-01,cardiac arrest,ambulatory surgery,4
+2021-01-01,cardiac arrest,ambulatory surgery,4
+2021-02-01,cardiac arrest,ambulatory surgery,5
+2021-03-01,cardiac arrest,ambulatory surgery,4
+2021-04-01,cardiac arrest,ambulatory surgery,4
+2021-05-01,cardiac arrest,ambulatory surgery,3
+2021-06-01,cardiac arrest,ambulatory surgery,4
+2021-07-01,cardiac arrest,ambulatory surgery,4
+2021-08-01,cardiac arrest,ambulatory surgery,1
+2021-09-01,cardiac arrest,ambulatory surgery,1
+2021-10-01,cardiac arrest,ambulatory surgery,3
+2021-11-01,cardiac arrest,ambulatory surgery,5
+2021-12-01,cardiac arrest,ambulatory surgery,3
+2018-03-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2018-06-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2018-07-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2018-08-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,2
+2018-10-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2018-12-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2019-01-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2019-02-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2019-06-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2019-08-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2019-09-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-02-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-03-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,2
+2020-04-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-08-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-10-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-11-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,3
+2020-12-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,3
+2021-02-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2021-04-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2021-08-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2021-09-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2021-10-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2021-12-01,chronic obstructive pulmonary disease (copd),ambulatory surgery,1
+2020-06-01,covid-19,ambulatory surgery,1
+2021-01-01,covid-19,ambulatory surgery,1
+2021-02-01,covid-19,ambulatory surgery,1
+2021-03-01,covid-19,ambulatory surgery,1
+2018-04-01,depression,ambulatory surgery,1
+2018-07-01,depression,ambulatory surgery,1
+2018-10-01,depression,ambulatory surgery,1
+2019-01-01,depression,ambulatory surgery,1
+2019-02-01,depression,ambulatory surgery,1
+2019-03-01,depression,ambulatory surgery,1
+2019-04-01,depression,ambulatory surgery,1
+2020-02-01,depression,ambulatory surgery,1
+2020-04-01,depression,ambulatory surgery,2
+2021-01-01,depression,ambulatory surgery,1
+2021-02-01,depression,ambulatory surgery,1
+2021-07-01,depression,ambulatory surgery,1
+2021-08-01,depression,ambulatory surgery,1
+2021-12-01,depression,ambulatory surgery,1
+2018-01-01,diabetes,ambulatory surgery,1
+2018-02-01,diabetes,ambulatory surgery,2
+2018-03-01,diabetes,ambulatory surgery,2
+2018-05-01,diabetes,ambulatory surgery,2
+2018-06-01,diabetes,ambulatory surgery,2
+2018-07-01,diabetes,ambulatory surgery,1
+2018-08-01,diabetes,ambulatory surgery,5
+2018-10-01,diabetes,ambulatory surgery,4
+2018-11-01,diabetes,ambulatory surgery,2
+2018-12-01,diabetes,ambulatory surgery,3
+2019-01-01,diabetes,ambulatory surgery,3
+2019-02-01,diabetes,ambulatory surgery,3
+2019-03-01,diabetes,ambulatory surgery,2
+2019-04-01,diabetes,ambulatory surgery,4
+2019-06-01,diabetes,ambulatory surgery,3
+2019-07-01,diabetes,ambulatory surgery,1
+2019-08-01,diabetes,ambulatory surgery,2
+2019-09-01,diabetes,ambulatory surgery,4
+2019-10-01,diabetes,ambulatory surgery,3
+2020-01-01,diabetes,ambulatory surgery,1
+2020-02-01,diabetes,ambulatory surgery,2
+2020-03-01,diabetes,ambulatory surgery,3
+2020-04-01,diabetes,ambulatory surgery,3
+2020-05-01,diabetes,ambulatory surgery,2
+2020-06-01,diabetes,ambulatory surgery,2
+2020-07-01,diabetes,ambulatory surgery,3
+2020-08-01,diabetes,ambulatory surgery,2
+2020-10-01,diabetes,ambulatory surgery,1
+2020-11-01,diabetes,ambulatory surgery,1
+2020-12-01,diabetes,ambulatory surgery,3
+2021-01-01,diabetes,ambulatory surgery,1
+2021-02-01,diabetes,ambulatory surgery,5
+2021-03-01,diabetes,ambulatory surgery,5
+2021-04-01,diabetes,ambulatory surgery,3
+2021-05-01,diabetes,ambulatory surgery,4
+2021-06-01,diabetes,ambulatory surgery,2
+2021-08-01,diabetes,ambulatory surgery,4
+2021-10-01,diabetes,ambulatory surgery,3
+2021-12-01,diabetes,ambulatory surgery,2
+2019-11-01,homeless,ambulatory surgery,1
+2018-01-01,hypertension,ambulatory surgery,4
+2018-02-01,hypertension,ambulatory surgery,5
+2018-03-01,hypertension,ambulatory surgery,6
+2018-04-01,hypertension,ambulatory surgery,3
+2018-05-01,hypertension,ambulatory surgery,5
+2018-06-01,hypertension,ambulatory surgery,3
+2018-07-01,hypertension,ambulatory surgery,2
+2018-08-01,hypertension,ambulatory surgery,12
+2018-09-01,hypertension,ambulatory surgery,5
+2018-10-01,hypertension,ambulatory surgery,4
+2018-11-01,hypertension,ambulatory surgery,5
+2018-12-01,hypertension,ambulatory surgery,2
+2019-01-01,hypertension,ambulatory surgery,5
+2019-02-01,hypertension,ambulatory surgery,4
+2019-03-01,hypertension,ambulatory surgery,5
+2019-04-01,hypertension,ambulatory surgery,7
+2019-05-01,hypertension,ambulatory surgery,3
+2019-06-01,hypertension,ambulatory surgery,7
+2019-07-01,hypertension,ambulatory surgery,2
+2019-08-01,hypertension,ambulatory surgery,7
+2019-09-01,hypertension,ambulatory surgery,6
+2019-10-01,hypertension,ambulatory surgery,4
+2019-11-01,hypertension,ambulatory surgery,1
+2019-12-01,hypertension,ambulatory surgery,2
+2020-01-01,hypertension,ambulatory surgery,2
+2020-02-01,hypertension,ambulatory surgery,1
+2020-03-01,hypertension,ambulatory surgery,9
+2020-04-01,hypertension,ambulatory surgery,5
+2020-05-01,hypertension,ambulatory surgery,2
+2020-06-01,hypertension,ambulatory surgery,3
+2020-07-01,hypertension,ambulatory surgery,4
+2020-08-01,hypertension,ambulatory surgery,2
+2020-09-01,hypertension,ambulatory surgery,3
+2020-10-01,hypertension,ambulatory surgery,6
+2020-11-01,hypertension,ambulatory surgery,7
+2020-12-01,hypertension,ambulatory surgery,6
+2021-01-01,hypertension,ambulatory surgery,3
+2021-02-01,hypertension,ambulatory surgery,7
+2021-03-01,hypertension,ambulatory surgery,6
+2021-04-01,hypertension,ambulatory surgery,5
+2021-05-01,hypertension,ambulatory surgery,6
+2021-06-01,hypertension,ambulatory surgery,5
+2021-07-01,hypertension,ambulatory surgery,3
+2021-08-01,hypertension,ambulatory surgery,3
+2021-09-01,hypertension,ambulatory surgery,1
+2021-10-01,hypertension,ambulatory surgery,4
+2021-11-01,hypertension,ambulatory surgery,5
+2021-12-01,hypertension,ambulatory surgery,9
+2020-12-01,mood disorders (excluding depression),ambulatory surgery,1
+2021-06-01,mood disorders (excluding depression),ambulatory surgery,1
+2020-03-01,non-mood psychotic disorders,ambulatory surgery,1
+2021-07-01,non-mood psychotic disorders,ambulatory surgery,1
+2018-01-01,obesity,ambulatory surgery,2
+2018-02-01,obesity,ambulatory surgery,1
+2018-03-01,obesity,ambulatory surgery,1
+2018-04-01,obesity,ambulatory surgery,1
+2018-06-01,obesity,ambulatory surgery,2
+2018-08-01,obesity,ambulatory surgery,2
+2018-10-01,obesity,ambulatory surgery,1
+2018-11-01,obesity,ambulatory surgery,2
+2019-03-01,obesity,ambulatory surgery,1
+2019-05-01,obesity,ambulatory surgery,1
+2019-07-01,obesity,ambulatory surgery,1
+2019-08-01,obesity,ambulatory surgery,3
+2019-09-01,obesity,ambulatory surgery,2
+2019-12-01,obesity,ambulatory surgery,1
+2020-01-01,obesity,ambulatory surgery,1
+2020-02-01,obesity,ambulatory surgery,1
+2020-03-01,obesity,ambulatory surgery,2
+2020-05-01,obesity,ambulatory surgery,1
+2020-06-01,obesity,ambulatory surgery,2
+2020-07-01,obesity,ambulatory surgery,2
+2020-10-01,obesity,ambulatory surgery,1
+2020-12-01,obesity,ambulatory surgery,1
+2021-01-01,obesity,ambulatory surgery,1
+2021-02-01,obesity,ambulatory surgery,3
+2021-04-01,obesity,ambulatory surgery,1
+2021-05-01,obesity,ambulatory surgery,2
+2021-06-01,obesity,ambulatory surgery,2
+2021-07-01,obesity,ambulatory surgery,2
+2021-10-01,obesity,ambulatory surgery,3
+2018-04-01,pneumonia,ambulatory surgery,1
+2020-01-01,pneumonia,ambulatory surgery,1
+2020-04-01,pneumonia,ambulatory surgery,1
+2020-06-01,pneumonia,ambulatory surgery,1
+2021-01-01,pneumonia,ambulatory surgery,2
+2021-02-01,pneumonia,ambulatory surgery,2
+2021-06-01,pneumonia,ambulatory surgery,2
+2018-02-01,respiratory arrest/failure,ambulatory surgery,1
+2018-03-01,respiratory arrest/failure,ambulatory surgery,1
+2018-04-01,respiratory arrest/failure,ambulatory surgery,2
+2018-05-01,respiratory arrest/failure,ambulatory surgery,3
+2018-06-01,respiratory arrest/failure,ambulatory surgery,1
+2018-07-01,respiratory arrest/failure,ambulatory surgery,1
+2018-08-01,respiratory arrest/failure,ambulatory surgery,1
+2018-09-01,respiratory arrest/failure,ambulatory surgery,1
+2018-11-01,respiratory arrest/failure,ambulatory surgery,1
+2018-12-01,respiratory arrest/failure,ambulatory surgery,1
+2019-01-01,respiratory arrest/failure,ambulatory surgery,2
+2019-02-01,respiratory arrest/failure,ambulatory surgery,2
+2019-03-01,respiratory arrest/failure,ambulatory surgery,1
+2019-04-01,respiratory arrest/failure,ambulatory surgery,1
+2019-05-01,respiratory arrest/failure,ambulatory surgery,1
+2019-06-01,respiratory arrest/failure,ambulatory surgery,1
+2019-07-01,respiratory arrest/failure,ambulatory surgery,1
+2019-10-01,respiratory arrest/failure,ambulatory surgery,2
+2020-01-01,respiratory arrest/failure,ambulatory surgery,1
+2020-02-01,respiratory arrest/failure,ambulatory surgery,1
+2020-03-01,respiratory arrest/failure,ambulatory surgery,1
+2020-04-01,respiratory arrest/failure,ambulatory surgery,4
+2020-07-01,respiratory arrest/failure,ambulatory surgery,1
+2020-08-01,respiratory arrest/failure,ambulatory surgery,1
+2020-10-01,respiratory arrest/failure,ambulatory surgery,3
+2020-12-01,respiratory arrest/failure,ambulatory surgery,2
+2021-01-01,respiratory arrest/failure,ambulatory surgery,3
+2021-02-01,respiratory arrest/failure,ambulatory surgery,1
+2021-03-01,respiratory arrest/failure,ambulatory surgery,3
+2021-04-01,respiratory arrest/failure,ambulatory surgery,1
+2021-05-01,respiratory arrest/failure,ambulatory surgery,2
+2021-06-01,respiratory arrest/failure,ambulatory surgery,2
+2021-07-01,respiratory arrest/failure,ambulatory surgery,2
+2021-08-01,respiratory arrest/failure,ambulatory surgery,1
+2021-09-01,respiratory arrest/failure,ambulatory surgery,1
+2021-10-01,respiratory arrest/failure,ambulatory surgery,3
+2021-11-01,respiratory arrest/failure,ambulatory surgery,2
+2021-12-01,respiratory arrest/failure,ambulatory surgery,2
+2018-05-01,sepsis,ambulatory surgery,1
+2018-09-01,sepsis,ambulatory surgery,1
+2018-12-01,sepsis,ambulatory surgery,1
+2019-04-01,sepsis,ambulatory surgery,1
+2019-05-01,sepsis,ambulatory surgery,1
+2019-07-01,sepsis,ambulatory surgery,1
+2019-08-01,sepsis,ambulatory surgery,1
+2019-12-01,sepsis,ambulatory surgery,1
+2020-01-01,sepsis,ambulatory surgery,1
+2020-04-01,sepsis,ambulatory surgery,1
+2020-07-01,sepsis,ambulatory surgery,1
+2020-12-01,sepsis,ambulatory surgery,1
+2021-01-01,sepsis,ambulatory surgery,1
+2021-02-01,sepsis,ambulatory surgery,3
+2021-06-01,sepsis,ambulatory surgery,1
+2021-07-01,sepsis,ambulatory surgery,1
+2021-08-01,sepsis,ambulatory surgery,1
+2021-09-01,sepsis,ambulatory surgery,1
+2021-12-01,sepsis,ambulatory surgery,1
+2018-01-01,substance use disorders,ambulatory surgery,1
+2018-02-01,substance use disorders,ambulatory surgery,1
+2018-05-01,substance use disorders,ambulatory surgery,3
+2018-06-01,substance use disorders,ambulatory surgery,1
+2018-08-01,substance use disorders,ambulatory surgery,1
+2018-09-01,substance use disorders,ambulatory surgery,1
+2018-10-01,substance use disorders,ambulatory surgery,1
+2018-12-01,substance use disorders,ambulatory surgery,1
+2019-01-01,substance use disorders,ambulatory surgery,1
+2019-02-01,substance use disorders,ambulatory surgery,1
+2019-06-01,substance use disorders,ambulatory surgery,2
+2019-08-01,substance use disorders,ambulatory surgery,1
+2019-10-01,substance use disorders,ambulatory surgery,1
+2019-11-01,substance use disorders,ambulatory surgery,1
+2020-08-01,substance use disorders,ambulatory surgery,1
+2020-10-01,substance use disorders,ambulatory surgery,1
+2020-11-01,substance use disorders,ambulatory surgery,1
+2021-02-01,substance use disorders,ambulatory surgery,3
+2021-04-01,substance use disorders,ambulatory surgery,2
+2021-05-01,substance use disorders,ambulatory surgery,1
+2021-06-01,substance use disorders,ambulatory surgery,2
+2021-11-01,substance use disorders,ambulatory surgery,1
+2021-12-01,substance use disorders,ambulatory surgery,1
+2019-09-01,unspecified mental disorders,ambulatory surgery,1
+2018-01-01,anxiety,emergency dept,30
+2018-02-01,anxiety,emergency dept,18
+2018-03-01,anxiety,emergency dept,40
+2018-04-01,anxiety,emergency dept,28
+2018-05-01,anxiety,emergency dept,36
+2018-06-01,anxiety,emergency dept,21
+2018-07-01,anxiety,emergency dept,18
+2018-08-01,anxiety,emergency dept,25
+2018-09-01,anxiety,emergency dept,27
+2018-10-01,anxiety,emergency dept,24
+2018-11-01,anxiety,emergency dept,27
+2018-12-01,anxiety,emergency dept,35
+2019-01-01,anxiety,emergency dept,28
+2019-02-01,anxiety,emergency dept,22
+2019-03-01,anxiety,emergency dept,37
+2019-04-01,anxiety,emergency dept,30
+2019-05-01,anxiety,emergency dept,28
+2019-06-01,anxiety,emergency dept,18
+2019-07-01,anxiety,emergency dept,24
+2019-08-01,anxiety,emergency dept,31
+2019-09-01,anxiety,emergency dept,28
+2019-10-01,anxiety,emergency dept,23
+2019-11-01,anxiety,emergency dept,30
+2019-12-01,anxiety,emergency dept,38
+2020-01-01,anxiety,emergency dept,33
+2020-02-01,anxiety,emergency dept,27
+2020-03-01,anxiety,emergency dept,40
+2020-04-01,anxiety,emergency dept,23
+2020-05-01,anxiety,emergency dept,24
+2020-06-01,anxiety,emergency dept,30
+2020-07-01,anxiety,emergency dept,40
+2020-08-01,anxiety,emergency dept,43
+2020-09-01,anxiety,emergency dept,37
+2020-10-01,anxiety,emergency dept,38
+2020-11-01,anxiety,emergency dept,36
+2020-12-01,anxiety,emergency dept,41
+2021-01-01,anxiety,emergency dept,37
+2021-02-01,anxiety,emergency dept,35
+2021-03-01,anxiety,emergency dept,24
+2021-04-01,anxiety,emergency dept,22
+2021-05-01,anxiety,emergency dept,20
+2021-06-01,anxiety,emergency dept,22
+2021-07-01,anxiety,emergency dept,29
+2021-08-01,anxiety,emergency dept,24
+2021-09-01,anxiety,emergency dept,28
+2021-10-01,anxiety,emergency dept,20
+2021-11-01,anxiety,emergency dept,28
+2021-12-01,anxiety,emergency dept,28
+2018-01-01,asthma,emergency dept,51
+2018-02-01,asthma,emergency dept,32
+2018-03-01,asthma,emergency dept,41
+2018-04-01,asthma,emergency dept,36
+2018-05-01,asthma,emergency dept,27
+2018-06-01,asthma,emergency dept,30
+2018-07-01,asthma,emergency dept,28
+2018-08-01,asthma,emergency dept,23
+2018-09-01,asthma,emergency dept,22
+2018-10-01,asthma,emergency dept,26
+2018-11-01,asthma,emergency dept,34
+2018-12-01,asthma,emergency dept,38
+2019-01-01,asthma,emergency dept,40
+2019-02-01,asthma,emergency dept,32
+2019-03-01,asthma,emergency dept,43
+2019-04-01,asthma,emergency dept,32
+2019-05-01,asthma,emergency dept,24
+2019-06-01,asthma,emergency dept,35
+2019-07-01,asthma,emergency dept,34
+2019-08-01,asthma,emergency dept,38
+2019-09-01,asthma,emergency dept,17
+2019-10-01,asthma,emergency dept,25
+2019-11-01,asthma,emergency dept,29
+2019-12-01,asthma,emergency dept,26
+2020-01-01,asthma,emergency dept,38
+2020-02-01,asthma,emergency dept,41
+2020-03-01,asthma,emergency dept,44
+2020-04-01,asthma,emergency dept,49
+2020-05-01,asthma,emergency dept,37
+2020-06-01,asthma,emergency dept,41
+2020-07-01,asthma,emergency dept,65
+2020-08-01,asthma,emergency dept,51
+2020-09-01,asthma,emergency dept,27
+2020-10-01,asthma,emergency dept,36
+2020-11-01,asthma,emergency dept,35
+2020-12-01,asthma,emergency dept,66
+2021-01-01,asthma,emergency dept,71
+2021-02-01,asthma,emergency dept,38
+2021-03-01,asthma,emergency dept,31
+2021-04-01,asthma,emergency dept,21
+2021-05-01,asthma,emergency dept,38
+2021-06-01,asthma,emergency dept,28
+2021-07-01,asthma,emergency dept,29
+2021-08-01,asthma,emergency dept,34
+2021-09-01,asthma,emergency dept,41
+2021-10-01,asthma,emergency dept,34
+2021-11-01,asthma,emergency dept,45
+2021-12-01,asthma,emergency dept,33
+2018-02-01,behavioral syndromes,emergency dept,1
+2018-04-01,behavioral syndromes,emergency dept,1
+2018-05-01,behavioral syndromes,emergency dept,1
+2018-09-01,behavioral syndromes,emergency dept,1
+2019-02-01,behavioral syndromes,emergency dept,1
+2019-03-01,behavioral syndromes,emergency dept,1
+2019-05-01,behavioral syndromes,emergency dept,1
+2019-07-01,behavioral syndromes,emergency dept,2
+2020-01-01,behavioral syndromes,emergency dept,1
+2020-04-01,behavioral syndromes,emergency dept,2
+2020-06-01,behavioral syndromes,emergency dept,1
+2021-01-01,behavioral syndromes,emergency dept,1
+2021-07-01,behavioral syndromes,emergency dept,1
+2021-08-01,behavioral syndromes,emergency dept,1
+2021-09-01,behavioral syndromes,emergency dept,1
+2021-10-01,behavioral syndromes,emergency dept,1
+2018-01-01,cancer,emergency dept,100
+2018-02-01,cancer,emergency dept,79
+2018-03-01,cancer,emergency dept,97
+2018-04-01,cancer,emergency dept,85
+2018-05-01,cancer,emergency dept,103
+2018-06-01,cancer,emergency dept,78
+2018-07-01,cancer,emergency dept,84
+2018-08-01,cancer,emergency dept,80
+2018-09-01,cancer,emergency dept,75
+2018-10-01,cancer,emergency dept,96
+2018-11-01,cancer,emergency dept,89
+2018-12-01,cancer,emergency dept,99
+2019-01-01,cancer,emergency dept,121
+2019-02-01,cancer,emergency dept,103
+2019-03-01,cancer,emergency dept,92
+2019-04-01,cancer,emergency dept,102
+2019-05-01,cancer,emergency dept,103
+2019-06-01,cancer,emergency dept,84
+2019-07-01,cancer,emergency dept,90
+2019-08-01,cancer,emergency dept,97
+2019-09-01,cancer,emergency dept,96
+2019-10-01,cancer,emergency dept,98
+2019-11-01,cancer,emergency dept,87
+2019-12-01,cancer,emergency dept,107
+2020-01-01,cancer,emergency dept,113
+2020-02-01,cancer,emergency dept,105
+2020-03-01,cancer,emergency dept,125
+2020-04-01,cancer,emergency dept,84
+2020-05-01,cancer,emergency dept,87
+2020-06-01,cancer,emergency dept,76
+2020-07-01,cancer,emergency dept,97
+2020-08-01,cancer,emergency dept,98
+2020-09-01,cancer,emergency dept,72
+2020-10-01,cancer,emergency dept,91
+2020-11-01,cancer,emergency dept,119
+2020-12-01,cancer,emergency dept,129
+2021-01-01,cancer,emergency dept,114
+2021-02-01,cancer,emergency dept,97
+2021-03-01,cancer,emergency dept,90
+2021-04-01,cancer,emergency dept,81
+2021-05-01,cancer,emergency dept,89
+2021-06-01,cancer,emergency dept,86
+2021-07-01,cancer,emergency dept,111
+2021-08-01,cancer,emergency dept,121
+2021-09-01,cancer,emergency dept,86
+2021-10-01,cancer,emergency dept,118
+2021-11-01,cancer,emergency dept,102
+2021-12-01,cancer,emergency dept,106
+2018-01-01,cardiac arrest,emergency dept,1473
+2018-02-01,cardiac arrest,emergency dept,1125
+2018-03-01,cardiac arrest,emergency dept,1261
+2018-04-01,cardiac arrest,emergency dept,1145
+2018-05-01,cardiac arrest,emergency dept,1058
+2018-06-01,cardiac arrest,emergency dept,1036
+2018-07-01,cardiac arrest,emergency dept,1117
+2018-08-01,cardiac arrest,emergency dept,1057
+2018-09-01,cardiac arrest,emergency dept,1016
+2018-10-01,cardiac arrest,emergency dept,1107
+2018-11-01,cardiac arrest,emergency dept,1161
+2018-12-01,cardiac arrest,emergency dept,1254
+2019-01-01,cardiac arrest,emergency dept,1276
+2019-02-01,cardiac arrest,emergency dept,1180
+2019-03-01,cardiac arrest,emergency dept,1267
+2019-04-01,cardiac arrest,emergency dept,1014
+2019-05-01,cardiac arrest,emergency dept,1107
+2019-06-01,cardiac arrest,emergency dept,1065
+2019-07-01,cardiac arrest,emergency dept,991
+2019-08-01,cardiac arrest,emergency dept,1000
+2019-09-01,cardiac arrest,emergency dept,957
+2019-10-01,cardiac arrest,emergency dept,1069
+2019-11-01,cardiac arrest,emergency dept,1080
+2019-12-01,cardiac arrest,emergency dept,1248
+2020-01-01,cardiac arrest,emergency dept,1258
+2020-02-01,cardiac arrest,emergency dept,1082
+2020-03-01,cardiac arrest,emergency dept,1177
+2020-04-01,cardiac arrest,emergency dept,1197
+2020-05-01,cardiac arrest,emergency dept,1203
+2020-06-01,cardiac arrest,emergency dept,1143
+2020-07-01,cardiac arrest,emergency dept,1417
+2020-08-01,cardiac arrest,emergency dept,1317
+2020-09-01,cardiac arrest,emergency dept,1150
+2020-10-01,cardiac arrest,emergency dept,1235
+2020-11-01,cardiac arrest,emergency dept,1323
+2020-12-01,cardiac arrest,emergency dept,1950
+2021-01-01,cardiac arrest,emergency dept,1874
+2021-02-01,cardiac arrest,emergency dept,1290
+2021-03-01,cardiac arrest,emergency dept,1247
+2021-04-01,cardiac arrest,emergency dept,1064
+2021-05-01,cardiac arrest,emergency dept,1047
+2021-06-01,cardiac arrest,emergency dept,1043
+2021-07-01,cardiac arrest,emergency dept,1113
+2021-08-01,cardiac arrest,emergency dept,1261
+2021-09-01,cardiac arrest,emergency dept,1169
+2021-10-01,cardiac arrest,emergency dept,1245
+2021-11-01,cardiac arrest,emergency dept,1155
+2021-12-01,cardiac arrest,emergency dept,1357
+2018-01-01,chronic obstructive pulmonary disease (copd),emergency dept,151
+2018-02-01,chronic obstructive pulmonary disease (copd),emergency dept,120
+2018-03-01,chronic obstructive pulmonary disease (copd),emergency dept,119
+2018-04-01,chronic obstructive pulmonary disease (copd),emergency dept,112
+2018-05-01,chronic obstructive pulmonary disease (copd),emergency dept,91
+2018-06-01,chronic obstructive pulmonary disease (copd),emergency dept,85
+2018-07-01,chronic obstructive pulmonary disease (copd),emergency dept,90
+2018-08-01,chronic obstructive pulmonary disease (copd),emergency dept,89
+2018-09-01,chronic obstructive pulmonary disease (copd),emergency dept,80
+2018-10-01,chronic obstructive pulmonary disease (copd),emergency dept,85
+2018-11-01,chronic obstructive pulmonary disease (copd),emergency dept,107
+2018-12-01,chronic obstructive pulmonary disease (copd),emergency dept,121
+2019-01-01,chronic obstructive pulmonary disease (copd),emergency dept,106
+2019-02-01,chronic obstructive pulmonary disease (copd),emergency dept,111
+2019-03-01,chronic obstructive pulmonary disease (copd),emergency dept,125
+2019-04-01,chronic obstructive pulmonary disease (copd),emergency dept,113
+2019-05-01,chronic obstructive pulmonary disease (copd),emergency dept,88
+2019-06-01,chronic obstructive pulmonary disease (copd),emergency dept,87
+2019-07-01,chronic obstructive pulmonary disease (copd),emergency dept,78
+2019-08-01,chronic obstructive pulmonary disease (copd),emergency dept,80
+2019-09-01,chronic obstructive pulmonary disease (copd),emergency dept,84
+2019-10-01,chronic obstructive pulmonary disease (copd),emergency dept,78
+2019-11-01,chronic obstructive pulmonary disease (copd),emergency dept,97
+2019-12-01,chronic obstructive pulmonary disease (copd),emergency dept,110
+2020-01-01,chronic obstructive pulmonary disease (copd),emergency dept,108
+2020-02-01,chronic obstructive pulmonary disease (copd),emergency dept,85
+2020-03-01,chronic obstructive pulmonary disease (copd),emergency dept,114
+2020-04-01,chronic obstructive pulmonary disease (copd),emergency dept,114
+2020-05-01,chronic obstructive pulmonary disease (copd),emergency dept,111
+2020-06-01,chronic obstructive pulmonary disease (copd),emergency dept,99
+2020-07-01,chronic obstructive pulmonary disease (copd),emergency dept,87
+2020-08-01,chronic obstructive pulmonary disease (copd),emergency dept,116
+2020-09-01,chronic obstructive pulmonary disease (copd),emergency dept,82
+2020-10-01,chronic obstructive pulmonary disease (copd),emergency dept,93
+2020-11-01,chronic obstructive pulmonary disease (copd),emergency dept,109
+2020-12-01,chronic obstructive pulmonary disease (copd),emergency dept,152
+2021-01-01,chronic obstructive pulmonary disease (copd),emergency dept,129
+2021-02-01,chronic obstructive pulmonary disease (copd),emergency dept,111
+2021-03-01,chronic obstructive pulmonary disease (copd),emergency dept,97
+2021-04-01,chronic obstructive pulmonary disease (copd),emergency dept,90
+2021-05-01,chronic obstructive pulmonary disease (copd),emergency dept,82
+2021-06-01,chronic obstructive pulmonary disease (copd),emergency dept,74
+2021-07-01,chronic obstructive pulmonary disease (copd),emergency dept,76
+2021-08-01,chronic obstructive pulmonary disease (copd),emergency dept,93
+2021-09-01,chronic obstructive pulmonary disease (copd),emergency dept,85
+2021-10-01,chronic obstructive pulmonary disease (copd),emergency dept,98
+2021-11-01,chronic obstructive pulmonary disease (copd),emergency dept,105
+2021-12-01,chronic obstructive pulmonary disease (copd),emergency dept,103
+2020-04-01,covid-19,emergency dept,66
+2020-05-01,covid-19,emergency dept,50
+2020-06-01,covid-19,emergency dept,62
+2020-07-01,covid-19,emergency dept,127
+2020-08-01,covid-19,emergency dept,98
+2020-09-01,covid-19,emergency dept,48
+2020-10-01,covid-19,emergency dept,35
+2020-11-01,covid-19,emergency dept,126
+2020-12-01,covid-19,emergency dept,590
+2021-01-01,covid-19,emergency dept,519
+2021-02-01,covid-19,emergency dept,124
+2021-03-01,covid-19,emergency dept,42
+2021-04-01,covid-19,emergency dept,26
+2021-05-01,covid-19,emergency dept,12
+2021-06-01,covid-19,emergency dept,13
+2021-07-01,covid-19,emergency dept,33
+2021-08-01,covid-19,emergency dept,123
+2021-09-01,covid-19,emergency dept,102
+2021-10-01,covid-19,emergency dept,68
+2021-11-01,covid-19,emergency dept,68
+2021-12-01,covid-19,emergency dept,65
+2018-01-01,depression,emergency dept,47
+2018-02-01,depression,emergency dept,30
+2018-03-01,depression,emergency dept,31
+2018-04-01,depression,emergency dept,37
+2018-05-01,depression,emergency dept,39
+2018-06-01,depression,emergency dept,39
+2018-07-01,depression,emergency dept,30
+2018-08-01,depression,emergency dept,35
+2018-09-01,depression,emergency dept,33
+2018-10-01,depression,emergency dept,27
+2018-11-01,depression,emergency dept,35
+2018-12-01,depression,emergency dept,51
+2019-01-01,depression,emergency dept,54
+2019-02-01,depression,emergency dept,36
+2019-03-01,depression,emergency dept,40
+2019-04-01,depression,emergency dept,28
+2019-05-01,depression,emergency dept,33
+2019-06-01,depression,emergency dept,39
+2019-07-01,depression,emergency dept,39
+2019-08-01,depression,emergency dept,41
+2019-09-01,depression,emergency dept,32
+2019-10-01,depression,emergency dept,24
+2019-11-01,depression,emergency dept,35
+2019-12-01,depression,emergency dept,37
+2020-01-01,depression,emergency dept,41
+2020-02-01,depression,emergency dept,44
+2020-03-01,depression,emergency dept,44
+2020-04-01,depression,emergency dept,36
+2020-05-01,depression,emergency dept,35
+2020-06-01,depression,emergency dept,44
+2020-07-01,depression,emergency dept,50
+2020-08-01,depression,emergency dept,58
+2020-09-01,depression,emergency dept,45
+2020-10-01,depression,emergency dept,46
+2020-11-01,depression,emergency dept,41
+2020-12-01,depression,emergency dept,48
+2021-01-01,depression,emergency dept,49
+2021-02-01,depression,emergency dept,51
+2021-03-01,depression,emergency dept,40
+2021-04-01,depression,emergency dept,39
+2021-05-01,depression,emergency dept,25
+2021-06-01,depression,emergency dept,38
+2021-07-01,depression,emergency dept,26
+2021-08-01,depression,emergency dept,38
+2021-09-01,depression,emergency dept,37
+2021-10-01,depression,emergency dept,35
+2021-11-01,depression,emergency dept,25
+2021-12-01,depression,emergency dept,33
+2018-01-01,diabetes,emergency dept,451
+2018-02-01,diabetes,emergency dept,322
+2018-03-01,diabetes,emergency dept,367
+2018-04-01,diabetes,emergency dept,339
+2018-05-01,diabetes,emergency dept,323
+2018-06-01,diabetes,emergency dept,258
+2018-07-01,diabetes,emergency dept,290
+2018-08-01,diabetes,emergency dept,261
+2018-09-01,diabetes,emergency dept,277
+2018-10-01,diabetes,emergency dept,292
+2018-11-01,diabetes,emergency dept,317
+2018-12-01,diabetes,emergency dept,377
+2019-01-01,diabetes,emergency dept,398
+2019-02-01,diabetes,emergency dept,326
+2019-03-01,diabetes,emergency dept,370
+2019-04-01,diabetes,emergency dept,306
+2019-05-01,diabetes,emergency dept,291
+2019-06-01,diabetes,emergency dept,301
+2019-07-01,diabetes,emergency dept,241
+2019-08-01,diabetes,emergency dept,240
+2019-09-01,diabetes,emergency dept,240
+2019-10-01,diabetes,emergency dept,262
+2019-11-01,diabetes,emergency dept,287
+2019-12-01,diabetes,emergency dept,333
+2020-01-01,diabetes,emergency dept,342
+2020-02-01,diabetes,emergency dept,305
+2020-03-01,diabetes,emergency dept,346
+2020-04-01,diabetes,emergency dept,397
+2020-05-01,diabetes,emergency dept,347
+2020-06-01,diabetes,emergency dept,338
+2020-07-01,diabetes,emergency dept,394
+2020-08-01,diabetes,emergency dept,351
+2020-09-01,diabetes,emergency dept,334
+2020-10-01,diabetes,emergency dept,284
+2020-11-01,diabetes,emergency dept,394
+2020-12-01,diabetes,emergency dept,679
+2021-01-01,diabetes,emergency dept,649
+2021-02-01,diabetes,emergency dept,398
+2021-03-01,diabetes,emergency dept,353
+2021-04-01,diabetes,emergency dept,279
+2021-05-01,diabetes,emergency dept,269
+2021-06-01,diabetes,emergency dept,290
+2021-07-01,diabetes,emergency dept,291
+2021-08-01,diabetes,emergency dept,322
+2021-09-01,diabetes,emergency dept,313
+2021-10-01,diabetes,emergency dept,329
+2021-11-01,diabetes,emergency dept,333
+2021-12-01,diabetes,emergency dept,373
+2018-01-01,homeless,emergency dept,9
+2018-02-01,homeless,emergency dept,5
+2018-03-01,homeless,emergency dept,6
+2018-04-01,homeless,emergency dept,4
+2018-06-01,homeless,emergency dept,3
+2018-07-01,homeless,emergency dept,4
+2018-08-01,homeless,emergency dept,4
+2018-09-01,homeless,emergency dept,4
+2018-10-01,homeless,emergency dept,11
+2018-11-01,homeless,emergency dept,4
+2018-12-01,homeless,emergency dept,10
+2019-01-01,homeless,emergency dept,25
+2019-02-01,homeless,emergency dept,27
+2019-03-01,homeless,emergency dept,24
+2019-04-01,homeless,emergency dept,22
+2019-05-01,homeless,emergency dept,27
+2019-06-01,homeless,emergency dept,26
+2019-07-01,homeless,emergency dept,24
+2019-08-01,homeless,emergency dept,27
+2019-09-01,homeless,emergency dept,23
+2019-10-01,homeless,emergency dept,17
+2019-11-01,homeless,emergency dept,23
+2019-12-01,homeless,emergency dept,38
+2020-01-01,homeless,emergency dept,39
+2020-02-01,homeless,emergency dept,31
+2020-03-01,homeless,emergency dept,22
+2020-04-01,homeless,emergency dept,27
+2020-05-01,homeless,emergency dept,30
+2020-06-01,homeless,emergency dept,30
+2020-07-01,homeless,emergency dept,38
+2020-08-01,homeless,emergency dept,37
+2020-09-01,homeless,emergency dept,31
+2020-10-01,homeless,emergency dept,30
+2020-11-01,homeless,emergency dept,32
+2020-12-01,homeless,emergency dept,46
+2021-01-01,homeless,emergency dept,40
+2021-02-01,homeless,emergency dept,19
+2021-03-01,homeless,emergency dept,31
+2021-04-01,homeless,emergency dept,27
+2021-05-01,homeless,emergency dept,28
+2021-06-01,homeless,emergency dept,28
+2021-07-01,homeless,emergency dept,38
+2021-08-01,homeless,emergency dept,35
+2021-09-01,homeless,emergency dept,33
+2021-10-01,homeless,emergency dept,43
+2021-11-01,homeless,emergency dept,19
+2021-12-01,homeless,emergency dept,54
+2018-01-01,hypertension,emergency dept,715
+2018-02-01,hypertension,emergency dept,561
+2018-03-01,hypertension,emergency dept,576
+2018-04-01,hypertension,emergency dept,514
+2018-05-01,hypertension,emergency dept,543
+2018-06-01,hypertension,emergency dept,453
+2018-07-01,hypertension,emergency dept,482
+2018-08-01,hypertension,emergency dept,439
+2018-09-01,hypertension,emergency dept,452
+2018-10-01,hypertension,emergency dept,479
+2018-11-01,hypertension,emergency dept,540
+2018-12-01,hypertension,emergency dept,584
+2019-01-01,hypertension,emergency dept,618
+2019-02-01,hypertension,emergency dept,562
+2019-03-01,hypertension,emergency dept,569
+2019-04-01,hypertension,emergency dept,467
+2019-05-01,hypertension,emergency dept,467
+2019-06-01,hypertension,emergency dept,478
+2019-07-01,hypertension,emergency dept,421
+2019-08-01,hypertension,emergency dept,442
+2019-09-01,hypertension,emergency dept,412
+2019-10-01,hypertension,emergency dept,438
+2019-11-01,hypertension,emergency dept,472
+2019-12-01,hypertension,emergency dept,560
+2020-01-01,hypertension,emergency dept,569
+2020-02-01,hypertension,emergency dept,501
+2020-03-01,hypertension,emergency dept,585
+2020-04-01,hypertension,emergency dept,603
+2020-05-01,hypertension,emergency dept,546
+2020-06-01,hypertension,emergency dept,515
+2020-07-01,hypertension,emergency dept,626
+2020-08-01,hypertension,emergency dept,575
+2020-09-01,hypertension,emergency dept,505
+2020-10-01,hypertension,emergency dept,506
+2020-11-01,hypertension,emergency dept,635
+2020-12-01,hypertension,emergency dept,1013
+2021-01-01,hypertension,emergency dept,938
+2021-02-01,hypertension,emergency dept,598
+2021-03-01,hypertension,emergency dept,549
+2021-04-01,hypertension,emergency dept,461
+2021-05-01,hypertension,emergency dept,427
+2021-06-01,hypertension,emergency dept,475
+2021-07-01,hypertension,emergency dept,463
+2021-08-01,hypertension,emergency dept,516
+2021-09-01,hypertension,emergency dept,502
+2021-10-01,hypertension,emergency dept,520
+2021-11-01,hypertension,emergency dept,494
+2021-12-01,hypertension,emergency dept,607
+2018-01-01,mood disorders (excluding depression),emergency dept,6
+2018-02-01,mood disorders (excluding depression),emergency dept,2
+2018-03-01,mood disorders (excluding depression),emergency dept,7
+2018-04-01,mood disorders (excluding depression),emergency dept,7
+2018-05-01,mood disorders (excluding depression),emergency dept,8
+2018-06-01,mood disorders (excluding depression),emergency dept,8
+2018-07-01,mood disorders (excluding depression),emergency dept,7
+2018-08-01,mood disorders (excluding depression),emergency dept,12
+2018-09-01,mood disorders (excluding depression),emergency dept,10
+2018-10-01,mood disorders (excluding depression),emergency dept,7
+2018-11-01,mood disorders (excluding depression),emergency dept,13
+2018-12-01,mood disorders (excluding depression),emergency dept,5
+2019-01-01,mood disorders (excluding depression),emergency dept,11
+2019-02-01,mood disorders (excluding depression),emergency dept,4
+2019-03-01,mood disorders (excluding depression),emergency dept,8
+2019-04-01,mood disorders (excluding depression),emergency dept,9
+2019-05-01,mood disorders (excluding depression),emergency dept,5
+2019-06-01,mood disorders (excluding depression),emergency dept,9
+2019-07-01,mood disorders (excluding depression),emergency dept,6
+2019-08-01,mood disorders (excluding depression),emergency dept,3
+2019-09-01,mood disorders (excluding depression),emergency dept,9
+2019-10-01,mood disorders (excluding depression),emergency dept,4
+2019-11-01,mood disorders (excluding depression),emergency dept,5
+2019-12-01,mood disorders (excluding depression),emergency dept,9
+2020-01-01,mood disorders (excluding depression),emergency dept,13
+2020-02-01,mood disorders (excluding depression),emergency dept,5
+2020-03-01,mood disorders (excluding depression),emergency dept,8
+2020-04-01,mood disorders (excluding depression),emergency dept,10
+2020-05-01,mood disorders (excluding depression),emergency dept,9
+2020-06-01,mood disorders (excluding depression),emergency dept,9
+2020-07-01,mood disorders (excluding depression),emergency dept,9
+2020-08-01,mood disorders (excluding depression),emergency dept,14
+2020-09-01,mood disorders (excluding depression),emergency dept,5
+2020-10-01,mood disorders (excluding depression),emergency dept,4
+2020-11-01,mood disorders (excluding depression),emergency dept,12
+2020-12-01,mood disorders (excluding depression),emergency dept,15
+2021-01-01,mood disorders (excluding depression),emergency dept,14
+2021-02-01,mood disorders (excluding depression),emergency dept,4
+2021-03-01,mood disorders (excluding depression),emergency dept,11
+2021-04-01,mood disorders (excluding depression),emergency dept,7
+2021-05-01,mood disorders (excluding depression),emergency dept,9
+2021-06-01,mood disorders (excluding depression),emergency dept,9
+2021-07-01,mood disorders (excluding depression),emergency dept,12
+2021-08-01,mood disorders (excluding depression),emergency dept,4
+2021-09-01,mood disorders (excluding depression),emergency dept,3
+2021-10-01,mood disorders (excluding depression),emergency dept,8
+2021-11-01,mood disorders (excluding depression),emergency dept,3
+2021-12-01,mood disorders (excluding depression),emergency dept,8
+2018-01-01,non-mood psychotic disorders,emergency dept,11
+2018-02-01,non-mood psychotic disorders,emergency dept,4
+2018-03-01,non-mood psychotic disorders,emergency dept,6
+2018-04-01,non-mood psychotic disorders,emergency dept,4
+2018-05-01,non-mood psychotic disorders,emergency dept,11
+2018-06-01,non-mood psychotic disorders,emergency dept,9
+2018-07-01,non-mood psychotic disorders,emergency dept,7
+2018-08-01,non-mood psychotic disorders,emergency dept,10
+2018-09-01,non-mood psychotic disorders,emergency dept,10
+2018-10-01,non-mood psychotic disorders,emergency dept,6
+2018-11-01,non-mood psychotic disorders,emergency dept,6
+2018-12-01,non-mood psychotic disorders,emergency dept,13
+2019-01-01,non-mood psychotic disorders,emergency dept,16
+2019-02-01,non-mood psychotic disorders,emergency dept,6
+2019-03-01,non-mood psychotic disorders,emergency dept,14
+2019-04-01,non-mood psychotic disorders,emergency dept,12
+2019-05-01,non-mood psychotic disorders,emergency dept,9
+2019-06-01,non-mood psychotic disorders,emergency dept,7
+2019-07-01,non-mood psychotic disorders,emergency dept,8
+2019-08-01,non-mood psychotic disorders,emergency dept,12
+2019-09-01,non-mood psychotic disorders,emergency dept,11
+2019-10-01,non-mood psychotic disorders,emergency dept,8
+2019-11-01,non-mood psychotic disorders,emergency dept,9
+2019-12-01,non-mood psychotic disorders,emergency dept,14
+2020-01-01,non-mood psychotic disorders,emergency dept,17
+2020-02-01,non-mood psychotic disorders,emergency dept,8
+2020-03-01,non-mood psychotic disorders,emergency dept,11
+2020-04-01,non-mood psychotic disorders,emergency dept,9
+2020-05-01,non-mood psychotic disorders,emergency dept,10
+2020-06-01,non-mood psychotic disorders,emergency dept,9
+2020-07-01,non-mood psychotic disorders,emergency dept,17
+2020-08-01,non-mood psychotic disorders,emergency dept,10
+2020-09-01,non-mood psychotic disorders,emergency dept,10
+2020-10-01,non-mood psychotic disorders,emergency dept,13
+2020-11-01,non-mood psychotic disorders,emergency dept,9
+2020-12-01,non-mood psychotic disorders,emergency dept,19
+2021-01-01,non-mood psychotic disorders,emergency dept,17
+2021-02-01,non-mood psychotic disorders,emergency dept,17
+2021-03-01,non-mood psychotic disorders,emergency dept,13
+2021-04-01,non-mood psychotic disorders,emergency dept,8
+2021-05-01,non-mood psychotic disorders,emergency dept,11
+2021-06-01,non-mood psychotic disorders,emergency dept,9
+2021-07-01,non-mood psychotic disorders,emergency dept,12
+2021-08-01,non-mood psychotic disorders,emergency dept,11
+2021-09-01,non-mood psychotic disorders,emergency dept,7
+2021-10-01,non-mood psychotic disorders,emergency dept,11
+2021-11-01,non-mood psychotic disorders,emergency dept,12
+2021-12-01,non-mood psychotic disorders,emergency dept,8
+2018-01-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2018-02-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2018-03-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2018-04-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2018-07-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2018-09-01,nonpsychotic disorders (excluding anxiety),emergency dept,3
+2018-10-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2019-02-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2019-04-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2019-06-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2019-09-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2019-12-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2020-07-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2020-09-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2020-11-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2020-12-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2021-01-01,nonpsychotic disorders (excluding anxiety),emergency dept,3
+2021-02-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2021-06-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2021-08-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2021-09-01,nonpsychotic disorders (excluding anxiety),emergency dept,1
+2021-10-01,nonpsychotic disorders (excluding anxiety),emergency dept,4
+2021-11-01,nonpsychotic disorders (excluding anxiety),emergency dept,2
+2018-01-01,obesity,emergency dept,59
+2018-02-01,obesity,emergency dept,56
+2018-03-01,obesity,emergency dept,47
+2018-04-01,obesity,emergency dept,55
+2018-05-01,obesity,emergency dept,51
+2018-06-01,obesity,emergency dept,37
+2018-07-01,obesity,emergency dept,44
+2018-08-01,obesity,emergency dept,40
+2018-09-01,obesity,emergency dept,35
+2018-10-01,obesity,emergency dept,36
+2018-11-01,obesity,emergency dept,56
+2018-12-01,obesity,emergency dept,56
+2019-01-01,obesity,emergency dept,69
+2019-02-01,obesity,emergency dept,53
+2019-03-01,obesity,emergency dept,56
+2019-04-01,obesity,emergency dept,45
+2019-05-01,obesity,emergency dept,38
+2019-06-01,obesity,emergency dept,35
+2019-07-01,obesity,emergency dept,35
+2019-08-01,obesity,emergency dept,43
+2019-09-01,obesity,emergency dept,39
+2019-10-01,obesity,emergency dept,31
+2019-11-01,obesity,emergency dept,41
+2019-12-01,obesity,emergency dept,56
+2020-01-01,obesity,emergency dept,46
+2020-02-01,obesity,emergency dept,47
+2020-03-01,obesity,emergency dept,52
+2020-04-01,obesity,emergency dept,61
+2020-05-01,obesity,emergency dept,67
+2020-06-01,obesity,emergency dept,58
+2020-07-01,obesity,emergency dept,68
+2020-08-01,obesity,emergency dept,55
+2020-09-01,obesity,emergency dept,49
+2020-10-01,obesity,emergency dept,50
+2020-11-01,obesity,emergency dept,64
+2020-12-01,obesity,emergency dept,135
+2021-01-01,obesity,emergency dept,107
+2021-02-01,obesity,emergency dept,66
+2021-03-01,obesity,emergency dept,73
+2021-04-01,obesity,emergency dept,44
+2021-05-01,obesity,emergency dept,47
+2021-06-01,obesity,emergency dept,38
+2021-07-01,obesity,emergency dept,46
+2021-08-01,obesity,emergency dept,63
+2021-09-01,obesity,emergency dept,65
+2021-10-01,obesity,emergency dept,62
+2021-11-01,obesity,emergency dept,64
+2021-12-01,obesity,emergency dept,63
+2018-01-01,pneumonia,emergency dept,118
+2018-02-01,pneumonia,emergency dept,79
+2018-03-01,pneumonia,emergency dept,82
+2018-04-01,pneumonia,emergency dept,58
+2018-05-01,pneumonia,emergency dept,62
+2018-06-01,pneumonia,emergency dept,41
+2018-07-01,pneumonia,emergency dept,46
+2018-08-01,pneumonia,emergency dept,65
+2018-09-01,pneumonia,emergency dept,61
+2018-10-01,pneumonia,emergency dept,56
+2018-11-01,pneumonia,emergency dept,72
+2018-12-01,pneumonia,emergency dept,84
+2019-01-01,pneumonia,emergency dept,88
+2019-02-01,pneumonia,emergency dept,66
+2019-03-01,pneumonia,emergency dept,99
+2019-04-01,pneumonia,emergency dept,72
+2019-05-01,pneumonia,emergency dept,68
+2019-06-01,pneumonia,emergency dept,70
+2019-07-01,pneumonia,emergency dept,62
+2019-08-01,pneumonia,emergency dept,52
+2019-09-01,pneumonia,emergency dept,48
+2019-10-01,pneumonia,emergency dept,63
+2019-11-01,pneumonia,emergency dept,59
+2019-12-01,pneumonia,emergency dept,73
+2020-01-01,pneumonia,emergency dept,97
+2020-02-01,pneumonia,emergency dept,81
+2020-03-01,pneumonia,emergency dept,107
+2020-04-01,pneumonia,emergency dept,128
+2020-05-01,pneumonia,emergency dept,96
+2020-06-01,pneumonia,emergency dept,95
+2020-07-01,pneumonia,emergency dept,138
+2020-08-01,pneumonia,emergency dept,91
+2020-09-01,pneumonia,emergency dept,73
+2020-10-01,pneumonia,emergency dept,72
+2020-11-01,pneumonia,emergency dept,139
+2020-12-01,pneumonia,emergency dept,354
+2021-01-01,pneumonia,emergency dept,271
+2021-02-01,pneumonia,emergency dept,132
+2021-03-01,pneumonia,emergency dept,84
+2021-04-01,pneumonia,emergency dept,64
+2021-05-01,pneumonia,emergency dept,66
+2021-06-01,pneumonia,emergency dept,54
+2021-07-01,pneumonia,emergency dept,80
+2021-08-01,pneumonia,emergency dept,106
+2021-09-01,pneumonia,emergency dept,108
+2021-10-01,pneumonia,emergency dept,101
+2021-11-01,pneumonia,emergency dept,117
+2021-12-01,pneumonia,emergency dept,93
+2018-01-01,respiratory arrest/failure,emergency dept,263
+2018-02-01,respiratory arrest/failure,emergency dept,186
+2018-03-01,respiratory arrest/failure,emergency dept,197
+2018-04-01,respiratory arrest/failure,emergency dept,173
+2018-05-01,respiratory arrest/failure,emergency dept,176
+2018-06-01,respiratory arrest/failure,emergency dept,160
+2018-07-01,respiratory arrest/failure,emergency dept,165
+2018-08-01,respiratory arrest/failure,emergency dept,148
+2018-09-01,respiratory arrest/failure,emergency dept,148
+2018-10-01,respiratory arrest/failure,emergency dept,137
+2018-11-01,respiratory arrest/failure,emergency dept,190
+2018-12-01,respiratory arrest/failure,emergency dept,224
+2019-01-01,respiratory arrest/failure,emergency dept,226
+2019-02-01,respiratory arrest/failure,emergency dept,227
+2019-03-01,respiratory arrest/failure,emergency dept,219
+2019-04-01,respiratory arrest/failure,emergency dept,182
+2019-05-01,respiratory arrest/failure,emergency dept,181
+2019-06-01,respiratory arrest/failure,emergency dept,166
+2019-07-01,respiratory arrest/failure,emergency dept,169
+2019-08-01,respiratory arrest/failure,emergency dept,167
+2019-09-01,respiratory arrest/failure,emergency dept,143
+2019-10-01,respiratory arrest/failure,emergency dept,180
+2019-11-01,respiratory arrest/failure,emergency dept,167
+2019-12-01,respiratory arrest/failure,emergency dept,224
+2020-01-01,respiratory arrest/failure,emergency dept,252
+2020-02-01,respiratory arrest/failure,emergency dept,185
+2020-03-01,respiratory arrest/failure,emergency dept,270
+2020-04-01,respiratory arrest/failure,emergency dept,279
+2020-05-01,respiratory arrest/failure,emergency dept,246
+2020-06-01,respiratory arrest/failure,emergency dept,213
+2020-07-01,respiratory arrest/failure,emergency dept,286
+2020-08-01,respiratory arrest/failure,emergency dept,271
+2020-09-01,respiratory arrest/failure,emergency dept,214
+2020-10-01,respiratory arrest/failure,emergency dept,243
+2020-11-01,respiratory arrest/failure,emergency dept,325
+2020-12-01,respiratory arrest/failure,emergency dept,542
+2021-01-01,respiratory arrest/failure,emergency dept,496
+2021-02-01,respiratory arrest/failure,emergency dept,267
+2021-03-01,respiratory arrest/failure,emergency dept,250
+2021-04-01,respiratory arrest/failure,emergency dept,187
+2021-05-01,respiratory arrest/failure,emergency dept,189
+2021-06-01,respiratory arrest/failure,emergency dept,201
+2021-07-01,respiratory arrest/failure,emergency dept,223
+2021-08-01,respiratory arrest/failure,emergency dept,253
+2021-09-01,respiratory arrest/failure,emergency dept,246
+2021-10-01,respiratory arrest/failure,emergency dept,239
+2021-11-01,respiratory arrest/failure,emergency dept,265
+2021-12-01,respiratory arrest/failure,emergency dept,262
+2018-01-01,sepsis,emergency dept,159
+2018-02-01,sepsis,emergency dept,111
+2018-03-01,sepsis,emergency dept,110
+2018-04-01,sepsis,emergency dept,97
+2018-05-01,sepsis,emergency dept,86
+2018-06-01,sepsis,emergency dept,84
+2018-07-01,sepsis,emergency dept,77
+2018-08-01,sepsis,emergency dept,65
+2018-09-01,sepsis,emergency dept,69
+2018-10-01,sepsis,emergency dept,76
+2018-11-01,sepsis,emergency dept,111
+2018-12-01,sepsis,emergency dept,123
+2019-01-01,sepsis,emergency dept,115
+2019-02-01,sepsis,emergency dept,105
+2019-03-01,sepsis,emergency dept,119
+2019-04-01,sepsis,emergency dept,85
+2019-05-01,sepsis,emergency dept,84
+2019-06-01,sepsis,emergency dept,87
+2019-07-01,sepsis,emergency dept,74
+2019-08-01,sepsis,emergency dept,78
+2019-09-01,sepsis,emergency dept,63
+2019-10-01,sepsis,emergency dept,88
+2019-11-01,sepsis,emergency dept,96
+2019-12-01,sepsis,emergency dept,106
+2020-01-01,sepsis,emergency dept,140
+2020-02-01,sepsis,emergency dept,104
+2020-03-01,sepsis,emergency dept,145
+2020-04-01,sepsis,emergency dept,148
+2020-05-01,sepsis,emergency dept,124
+2020-06-01,sepsis,emergency dept,114
+2020-07-01,sepsis,emergency dept,160
+2020-08-01,sepsis,emergency dept,134
+2020-09-01,sepsis,emergency dept,96
+2020-10-01,sepsis,emergency dept,92
+2020-11-01,sepsis,emergency dept,140
+2020-12-01,sepsis,emergency dept,289
+2021-01-01,sepsis,emergency dept,237
+2021-02-01,sepsis,emergency dept,147
+2021-03-01,sepsis,emergency dept,113
+2021-04-01,sepsis,emergency dept,97
+2021-05-01,sepsis,emergency dept,101
+2021-06-01,sepsis,emergency dept,69
+2021-07-01,sepsis,emergency dept,115
+2021-08-01,sepsis,emergency dept,123
+2021-09-01,sepsis,emergency dept,125
+2021-10-01,sepsis,emergency dept,121
+2021-11-01,sepsis,emergency dept,129
+2021-12-01,sepsis,emergency dept,114
+2018-01-01,stroke,emergency dept,9
+2018-02-01,stroke,emergency dept,3
+2018-03-01,stroke,emergency dept,7
+2018-04-01,stroke,emergency dept,6
+2018-05-01,stroke,emergency dept,13
+2018-06-01,stroke,emergency dept,5
+2018-07-01,stroke,emergency dept,9
+2018-08-01,stroke,emergency dept,7
+2018-09-01,stroke,emergency dept,5
+2018-10-01,stroke,emergency dept,3
+2018-11-01,stroke,emergency dept,10
+2018-12-01,stroke,emergency dept,12
+2019-01-01,stroke,emergency dept,10
+2019-02-01,stroke,emergency dept,9
+2019-03-01,stroke,emergency dept,9
+2019-04-01,stroke,emergency dept,14
+2019-05-01,stroke,emergency dept,8
+2019-06-01,stroke,emergency dept,8
+2019-07-01,stroke,emergency dept,5
+2019-08-01,stroke,emergency dept,11
+2019-09-01,stroke,emergency dept,1
+2019-10-01,stroke,emergency dept,5
+2019-11-01,stroke,emergency dept,12
+2019-12-01,stroke,emergency dept,6
+2020-01-01,stroke,emergency dept,8
+2020-02-01,stroke,emergency dept,4
+2020-03-01,stroke,emergency dept,9
+2020-04-01,stroke,emergency dept,13
+2020-05-01,stroke,emergency dept,11
+2020-06-01,stroke,emergency dept,7
+2020-07-01,stroke,emergency dept,11
+2020-08-01,stroke,emergency dept,9
+2020-09-01,stroke,emergency dept,8
+2020-10-01,stroke,emergency dept,4
+2020-11-01,stroke,emergency dept,13
+2020-12-01,stroke,emergency dept,19
+2021-01-01,stroke,emergency dept,10
+2021-02-01,stroke,emergency dept,7
+2021-03-01,stroke,emergency dept,11
+2021-04-01,stroke,emergency dept,4
+2021-05-01,stroke,emergency dept,9
+2021-06-01,stroke,emergency dept,6
+2021-07-01,stroke,emergency dept,7
+2021-08-01,stroke,emergency dept,8
+2021-09-01,stroke,emergency dept,7
+2021-10-01,stroke,emergency dept,12
+2021-11-01,stroke,emergency dept,11
+2021-12-01,stroke,emergency dept,10
+2018-01-01,substance use disorders,emergency dept,106
+2018-02-01,substance use disorders,emergency dept,108
+2018-03-01,substance use disorders,emergency dept,90
+2018-04-01,substance use disorders,emergency dept,93
+2018-05-01,substance use disorders,emergency dept,84
+2018-06-01,substance use disorders,emergency dept,73
+2018-07-01,substance use disorders,emergency dept,70
+2018-08-01,substance use disorders,emergency dept,78
+2018-09-01,substance use disorders,emergency dept,66
+2018-10-01,substance use disorders,emergency dept,79
+2018-11-01,substance use disorders,emergency dept,99
+2018-12-01,substance use disorders,emergency dept,100
+2019-01-01,substance use disorders,emergency dept,92
+2019-02-01,substance use disorders,emergency dept,88
+2019-03-01,substance use disorders,emergency dept,82
+2019-04-01,substance use disorders,emergency dept,69
+2019-05-01,substance use disorders,emergency dept,79
+2019-06-01,substance use disorders,emergency dept,82
+2019-07-01,substance use disorders,emergency dept,70
+2019-08-01,substance use disorders,emergency dept,62
+2019-09-01,substance use disorders,emergency dept,77
+2019-10-01,substance use disorders,emergency dept,65
+2019-11-01,substance use disorders,emergency dept,92
+2019-12-01,substance use disorders,emergency dept,93
+2020-01-01,substance use disorders,emergency dept,96
+2020-02-01,substance use disorders,emergency dept,84
+2020-03-01,substance use disorders,emergency dept,105
+2020-04-01,substance use disorders,emergency dept,93
+2020-05-01,substance use disorders,emergency dept,96
+2020-06-01,substance use disorders,emergency dept,84
+2020-07-01,substance use disorders,emergency dept,113
+2020-08-01,substance use disorders,emergency dept,104
+2020-09-01,substance use disorders,emergency dept,90
+2020-10-01,substance use disorders,emergency dept,89
+2020-11-01,substance use disorders,emergency dept,88
+2020-12-01,substance use disorders,emergency dept,113
+2021-01-01,substance use disorders,emergency dept,126
+2021-02-01,substance use disorders,emergency dept,103
+2021-03-01,substance use disorders,emergency dept,90
+2021-04-01,substance use disorders,emergency dept,74
+2021-05-01,substance use disorders,emergency dept,87
+2021-06-01,substance use disorders,emergency dept,68
+2021-07-01,substance use disorders,emergency dept,86
+2021-08-01,substance use disorders,emergency dept,114
+2021-09-01,substance use disorders,emergency dept,102
+2021-10-01,substance use disorders,emergency dept,97
+2021-11-01,substance use disorders,emergency dept,90
+2021-12-01,substance use disorders,emergency dept,110
+2018-02-01,unspecified mental disorders,emergency dept,2
+2018-03-01,unspecified mental disorders,emergency dept,1
+2018-04-01,unspecified mental disorders,emergency dept,2
+2018-05-01,unspecified mental disorders,emergency dept,2
+2018-06-01,unspecified mental disorders,emergency dept,2
+2018-07-01,unspecified mental disorders,emergency dept,1
+2018-08-01,unspecified mental disorders,emergency dept,3
+2018-09-01,unspecified mental disorders,emergency dept,3
+2018-10-01,unspecified mental disorders,emergency dept,1
+2018-11-01,unspecified mental disorders,emergency dept,3
+2018-12-01,unspecified mental disorders,emergency dept,1
+2019-01-01,unspecified mental disorders,emergency dept,1
+2019-02-01,unspecified mental disorders,emergency dept,2
+2019-03-01,unspecified mental disorders,emergency dept,1
+2019-04-01,unspecified mental disorders,emergency dept,3
+2019-05-01,unspecified mental disorders,emergency dept,2
+2019-07-01,unspecified mental disorders,emergency dept,4
+2019-08-01,unspecified mental disorders,emergency dept,2
+2019-10-01,unspecified mental disorders,emergency dept,1
+2019-11-01,unspecified mental disorders,emergency dept,2
+2019-12-01,unspecified mental disorders,emergency dept,2
+2020-03-01,unspecified mental disorders,emergency dept,2
+2020-04-01,unspecified mental disorders,emergency dept,4
+2020-05-01,unspecified mental disorders,emergency dept,1
+2020-07-01,unspecified mental disorders,emergency dept,1
+2020-08-01,unspecified mental disorders,emergency dept,6
+2020-09-01,unspecified mental disorders,emergency dept,1
+2020-10-01,unspecified mental disorders,emergency dept,1
+2020-12-01,unspecified mental disorders,emergency dept,3
+2021-01-01,unspecified mental disorders,emergency dept,3
+2021-02-01,unspecified mental disorders,emergency dept,1
+2021-03-01,unspecified mental disorders,emergency dept,3
+2021-04-01,unspecified mental disorders,emergency dept,3
+2021-06-01,unspecified mental disorders,emergency dept,2
+2021-07-01,unspecified mental disorders,emergency dept,1
+2021-08-01,unspecified mental disorders,emergency dept,1
+2021-09-01,unspecified mental disorders,emergency dept,1
+2021-10-01,unspecified mental disorders,emergency dept,1
+2021-11-01,unspecified mental disorders,emergency dept,2
+2018-01-01,anxiety,inpatient discharges,745
+2018-02-01,anxiety,inpatient discharges,564
+2018-03-01,anxiety,inpatient discharges,662
+2018-04-01,anxiety,inpatient discharges,556
+2018-05-01,anxiety,inpatient discharges,544
+2018-06-01,anxiety,inpatient discharges,537
+2018-07-01,anxiety,inpatient discharges,559
+2018-08-01,anxiety,inpatient discharges,548
+2018-09-01,anxiety,inpatient discharges,495
+2018-10-01,anxiety,inpatient discharges,514
+2018-11-01,anxiety,inpatient discharges,506
+2018-12-01,anxiety,inpatient discharges,596
+2019-01-01,anxiety,inpatient discharges,611
+2019-02-01,anxiety,inpatient discharges,636
+2019-03-01,anxiety,inpatient discharges,643
+2019-04-01,anxiety,inpatient discharges,596
+2019-05-01,anxiety,inpatient discharges,580
+2019-06-01,anxiety,inpatient discharges,531
+2019-07-01,anxiety,inpatient discharges,540
+2019-08-01,anxiety,inpatient discharges,516
+2019-09-01,anxiety,inpatient discharges,496
+2019-10-01,anxiety,inpatient discharges,559
+2019-11-01,anxiety,inpatient discharges,539
+2019-12-01,anxiety,inpatient discharges,617
+2020-01-01,anxiety,inpatient discharges,678
+2020-02-01,anxiety,inpatient discharges,660
+2020-03-01,anxiety,inpatient discharges,621
+2020-04-01,anxiety,inpatient discharges,513
+2020-05-01,anxiety,inpatient discharges,505
+2020-06-01,anxiety,inpatient discharges,539
+2020-07-01,anxiety,inpatient discharges,689
+2020-08-01,anxiety,inpatient discharges,677
+2020-09-01,anxiety,inpatient discharges,573
+2020-10-01,anxiety,inpatient discharges,570
+2020-11-01,anxiety,inpatient discharges,734
+2020-12-01,anxiety,inpatient discharges,1406
+2021-01-01,anxiety,inpatient discharges,2002
+2021-02-01,anxiety,inpatient discharges,1172
+2021-03-01,anxiety,inpatient discharges,761
+2021-04-01,anxiety,inpatient discharges,574
+2021-05-01,anxiety,inpatient discharges,605
+2021-06-01,anxiety,inpatient discharges,588
+2021-07-01,anxiety,inpatient discharges,596
+2021-08-01,anxiety,inpatient discharges,923
+2021-09-01,anxiety,inpatient discharges,1063
+2021-10-01,anxiety,inpatient discharges,897
+2021-11-01,anxiety,inpatient discharges,849
+2021-12-01,anxiety,inpatient discharges,888
+2018-01-01,asthma,inpatient discharges,396
+2018-02-01,asthma,inpatient discharges,298
+2018-03-01,asthma,inpatient discharges,287
+2018-04-01,asthma,inpatient discharges,264
+2018-05-01,asthma,inpatient discharges,236
+2018-06-01,asthma,inpatient discharges,198
+2018-07-01,asthma,inpatient discharges,205
+2018-08-01,asthma,inpatient discharges,226
+2018-09-01,asthma,inpatient discharges,209
+2018-10-01,asthma,inpatient discharges,236
+2018-11-01,asthma,inpatient discharges,234
+2018-12-01,asthma,inpatient discharges,275
+2019-01-01,asthma,inpatient discharges,334
+2019-02-01,asthma,inpatient discharges,268
+2019-03-01,asthma,inpatient discharges,289
+2019-04-01,asthma,inpatient discharges,270
+2019-05-01,asthma,inpatient discharges,268
+2019-06-01,asthma,inpatient discharges,226
+2019-07-01,asthma,inpatient discharges,233
+2019-08-01,asthma,inpatient discharges,233
+2019-09-01,asthma,inpatient discharges,204
+2019-10-01,asthma,inpatient discharges,232
+2019-11-01,asthma,inpatient discharges,240
+2019-12-01,asthma,inpatient discharges,294
+2020-01-01,asthma,inpatient discharges,302
+2020-02-01,asthma,inpatient discharges,291
+2020-03-01,asthma,inpatient discharges,289
+2020-04-01,asthma,inpatient discharges,304
+2020-05-01,asthma,inpatient discharges,253
+2020-06-01,asthma,inpatient discharges,279
+2020-07-01,asthma,inpatient discharges,394
+2020-08-01,asthma,inpatient discharges,374
+2020-09-01,asthma,inpatient discharges,269
+2020-10-01,asthma,inpatient discharges,274
+2020-11-01,asthma,inpatient discharges,306
+2020-12-01,asthma,inpatient discharges,717
+2021-01-01,asthma,inpatient discharges,1048
+2021-02-01,asthma,inpatient discharges,544
+2021-03-01,asthma,inpatient discharges,337
+2021-04-01,asthma,inpatient discharges,284
+2021-05-01,asthma,inpatient discharges,257
+2021-06-01,asthma,inpatient discharges,270
+2021-07-01,asthma,inpatient discharges,242
+2021-08-01,asthma,inpatient discharges,404
+2021-09-01,asthma,inpatient discharges,482
+2021-10-01,asthma,inpatient discharges,417
+2021-11-01,asthma,inpatient discharges,358
+2021-12-01,asthma,inpatient discharges,376
+2018-01-01,behavioral syndromes,inpatient discharges,13
+2018-02-01,behavioral syndromes,inpatient discharges,5
+2018-03-01,behavioral syndromes,inpatient discharges,10
+2018-04-01,behavioral syndromes,inpatient discharges,9
+2018-05-01,behavioral syndromes,inpatient discharges,10
+2018-06-01,behavioral syndromes,inpatient discharges,7
+2018-07-01,behavioral syndromes,inpatient discharges,7
+2018-08-01,behavioral syndromes,inpatient discharges,7
+2018-09-01,behavioral syndromes,inpatient discharges,5
+2018-10-01,behavioral syndromes,inpatient discharges,9
+2018-11-01,behavioral syndromes,inpatient discharges,6
+2018-12-01,behavioral syndromes,inpatient discharges,9
+2019-01-01,behavioral syndromes,inpatient discharges,13
+2019-02-01,behavioral syndromes,inpatient discharges,8
+2019-03-01,behavioral syndromes,inpatient discharges,5
+2019-04-01,behavioral syndromes,inpatient discharges,10
+2019-05-01,behavioral syndromes,inpatient discharges,7
+2019-06-01,behavioral syndromes,inpatient discharges,6
+2019-07-01,behavioral syndromes,inpatient discharges,7
+2019-08-01,behavioral syndromes,inpatient discharges,7
+2019-09-01,behavioral syndromes,inpatient discharges,11
+2019-10-01,behavioral syndromes,inpatient discharges,8
+2019-11-01,behavioral syndromes,inpatient discharges,6
+2019-12-01,behavioral syndromes,inpatient discharges,8
+2020-01-01,behavioral syndromes,inpatient discharges,12
+2020-02-01,behavioral syndromes,inpatient discharges,11
+2020-03-01,behavioral syndromes,inpatient discharges,11
+2020-04-01,behavioral syndromes,inpatient discharges,8
+2020-05-01,behavioral syndromes,inpatient discharges,7
+2020-06-01,behavioral syndromes,inpatient discharges,4
+2020-07-01,behavioral syndromes,inpatient discharges,12
+2020-08-01,behavioral syndromes,inpatient discharges,11
+2020-09-01,behavioral syndromes,inpatient discharges,12
+2020-10-01,behavioral syndromes,inpatient discharges,12
+2020-11-01,behavioral syndromes,inpatient discharges,4
+2020-12-01,behavioral syndromes,inpatient discharges,14
+2021-01-01,behavioral syndromes,inpatient discharges,19
+2021-02-01,behavioral syndromes,inpatient discharges,11
+2021-03-01,behavioral syndromes,inpatient discharges,9
+2021-04-01,behavioral syndromes,inpatient discharges,9
+2021-05-01,behavioral syndromes,inpatient discharges,9
+2021-06-01,behavioral syndromes,inpatient discharges,7
+2021-07-01,behavioral syndromes,inpatient discharges,7
+2021-08-01,behavioral syndromes,inpatient discharges,7
+2021-09-01,behavioral syndromes,inpatient discharges,9
+2021-10-01,behavioral syndromes,inpatient discharges,10
+2021-11-01,behavioral syndromes,inpatient discharges,12
+2021-12-01,behavioral syndromes,inpatient discharges,10
+2018-01-01,cancer,inpatient discharges,1791
+2018-02-01,cancer,inpatient discharges,1547
+2018-03-01,cancer,inpatient discharges,1699
+2018-04-01,cancer,inpatient discharges,1499
+2018-05-01,cancer,inpatient discharges,1516
+2018-06-01,cancer,inpatient discharges,1449
+2018-07-01,cancer,inpatient discharges,1573
+2018-08-01,cancer,inpatient discharges,1583
+2018-09-01,cancer,inpatient discharges,1476
+2018-10-01,cancer,inpatient discharges,1515
+2018-11-01,cancer,inpatient discharges,1536
+2018-12-01,cancer,inpatient discharges,1700
+2019-01-01,cancer,inpatient discharges,1764
+2019-02-01,cancer,inpatient discharges,1589
+2019-03-01,cancer,inpatient discharges,1752
+2019-04-01,cancer,inpatient discharges,1537
+2019-05-01,cancer,inpatient discharges,1610
+2019-06-01,cancer,inpatient discharges,1493
+2019-07-01,cancer,inpatient discharges,1505
+2019-08-01,cancer,inpatient discharges,1542
+2019-09-01,cancer,inpatient discharges,1495
+2019-10-01,cancer,inpatient discharges,1643
+2019-11-01,cancer,inpatient discharges,1464
+2019-12-01,cancer,inpatient discharges,1627
+2020-01-01,cancer,inpatient discharges,1816
+2020-02-01,cancer,inpatient discharges,1632
+2020-03-01,cancer,inpatient discharges,1596
+2020-04-01,cancer,inpatient discharges,1219
+2020-05-01,cancer,inpatient discharges,1265
+2020-06-01,cancer,inpatient discharges,1278
+2020-07-01,cancer,inpatient discharges,1336
+2020-08-01,cancer,inpatient discharges,1388
+2020-09-01,cancer,inpatient discharges,1347
+2020-10-01,cancer,inpatient discharges,1385
+2020-11-01,cancer,inpatient discharges,1454
+2020-12-01,cancer,inpatient discharges,1825
+2021-01-01,cancer,inpatient discharges,2030
+2021-02-01,cancer,inpatient discharges,1492
+2021-03-01,cancer,inpatient discharges,1470
+2021-04-01,cancer,inpatient discharges,1307
+2021-05-01,cancer,inpatient discharges,1379
+2021-06-01,cancer,inpatient discharges,1417
+2021-07-01,cancer,inpatient discharges,1415
+2021-08-01,cancer,inpatient discharges,1549
+2021-09-01,cancer,inpatient discharges,1564
+2021-10-01,cancer,inpatient discharges,1607
+2021-11-01,cancer,inpatient discharges,1585
+2021-12-01,cancer,inpatient discharges,1629
+2018-01-01,cardiac arrest,inpatient discharges,1736
+2018-02-01,cardiac arrest,inpatient discharges,1331
+2018-03-01,cardiac arrest,inpatient discharges,1505
+2018-04-01,cardiac arrest,inpatient discharges,1265
+2018-05-01,cardiac arrest,inpatient discharges,1179
+2018-06-01,cardiac arrest,inpatient discharges,1147
+2018-07-01,cardiac arrest,inpatient discharges,1126
+2018-08-01,cardiac arrest,inpatient discharges,1135
+2018-09-01,cardiac arrest,inpatient discharges,1051
+2018-10-01,cardiac arrest,inpatient discharges,1094
+2018-11-01,cardiac arrest,inpatient discharges,1241
+2018-12-01,cardiac arrest,inpatient discharges,1378
+2019-01-01,cardiac arrest,inpatient discharges,1453
+2019-02-01,cardiac arrest,inpatient discharges,1316
+2019-03-01,cardiac arrest,inpatient discharges,1413
+2019-04-01,cardiac arrest,inpatient discharges,1278
+2019-05-01,cardiac arrest,inpatient discharges,1243
+2019-06-01,cardiac arrest,inpatient discharges,1162
+2019-07-01,cardiac arrest,inpatient discharges,1134
+2019-08-01,cardiac arrest,inpatient discharges,1031
+2019-09-01,cardiac arrest,inpatient discharges,1085
+2019-10-01,cardiac arrest,inpatient discharges,1118
+2019-11-01,cardiac arrest,inpatient discharges,1195
+2019-12-01,cardiac arrest,inpatient discharges,1361
+2020-01-01,cardiac arrest,inpatient discharges,1519
+2020-02-01,cardiac arrest,inpatient discharges,1315
+2020-03-01,cardiac arrest,inpatient discharges,1403
+2020-04-01,cardiac arrest,inpatient discharges,1447
+2020-05-01,cardiac arrest,inpatient discharges,1435
+2020-06-01,cardiac arrest,inpatient discharges,1392
+2020-07-01,cardiac arrest,inpatient discharges,1897
+2020-08-01,cardiac arrest,inpatient discharges,1775
+2020-09-01,cardiac arrest,inpatient discharges,1484
+2020-10-01,cardiac arrest,inpatient discharges,1564
+2020-11-01,cardiac arrest,inpatient discharges,1900
+2020-12-01,cardiac arrest,inpatient discharges,3869
+2021-01-01,cardiac arrest,inpatient discharges,5216
+2021-02-01,cardiac arrest,inpatient discharges,2883
+2021-03-01,cardiac arrest,inpatient discharges,2048
+2021-04-01,cardiac arrest,inpatient discharges,1501
+2021-05-01,cardiac arrest,inpatient discharges,1585
+2021-06-01,cardiac arrest,inpatient discharges,1476
+2021-07-01,cardiac arrest,inpatient discharges,1556
+2021-08-01,cardiac arrest,inpatient discharges,2153
+2021-09-01,cardiac arrest,inpatient discharges,2381
+2021-10-01,cardiac arrest,inpatient discharges,2128
+2021-11-01,cardiac arrest,inpatient discharges,1984
+2021-12-01,cardiac arrest,inpatient discharges,2326
+2018-01-01,chronic obstructive pulmonary disease (copd),inpatient discharges,863
+2018-02-01,chronic obstructive pulmonary disease (copd),inpatient discharges,680
+2018-03-01,chronic obstructive pulmonary disease (copd),inpatient discharges,740
+2018-04-01,chronic obstructive pulmonary disease (copd),inpatient discharges,635
+2018-05-01,chronic obstructive pulmonary disease (copd),inpatient discharges,613
+2018-06-01,chronic obstructive pulmonary disease (copd),inpatient discharges,566
+2018-07-01,chronic obstructive pulmonary disease (copd),inpatient discharges,641
+2018-08-01,chronic obstructive pulmonary disease (copd),inpatient discharges,594
+2018-09-01,chronic obstructive pulmonary disease (copd),inpatient discharges,541
+2018-10-01,chronic obstructive pulmonary disease (copd),inpatient discharges,532
+2018-11-01,chronic obstructive pulmonary disease (copd),inpatient discharges,571
+2018-12-01,chronic obstructive pulmonary disease (copd),inpatient discharges,641
+2019-01-01,chronic obstructive pulmonary disease (copd),inpatient discharges,681
+2019-02-01,chronic obstructive pulmonary disease (copd),inpatient discharges,650
+2019-03-01,chronic obstructive pulmonary disease (copd),inpatient discharges,689
+2019-04-01,chronic obstructive pulmonary disease (copd),inpatient discharges,590
+2019-05-01,chronic obstructive pulmonary disease (copd),inpatient discharges,616
+2019-06-01,chronic obstructive pulmonary disease (copd),inpatient discharges,569
+2019-07-01,chronic obstructive pulmonary disease (copd),inpatient discharges,553
+2019-08-01,chronic obstructive pulmonary disease (copd),inpatient discharges,550
+2019-09-01,chronic obstructive pulmonary disease (copd),inpatient discharges,519
+2019-10-01,chronic obstructive pulmonary disease (copd),inpatient discharges,572
+2019-11-01,chronic obstructive pulmonary disease (copd),inpatient discharges,572
+2019-12-01,chronic obstructive pulmonary disease (copd),inpatient discharges,638
+2020-01-01,chronic obstructive pulmonary disease (copd),inpatient discharges,699
+2020-02-01,chronic obstructive pulmonary disease (copd),inpatient discharges,655
+2020-03-01,chronic obstructive pulmonary disease (copd),inpatient discharges,593
+2020-04-01,chronic obstructive pulmonary disease (copd),inpatient discharges,531
+2020-05-01,chronic obstructive pulmonary disease (copd),inpatient discharges,542
+2020-06-01,chronic obstructive pulmonary disease (copd),inpatient discharges,506
+2020-07-01,chronic obstructive pulmonary disease (copd),inpatient discharges,600
+2020-08-01,chronic obstructive pulmonary disease (copd),inpatient discharges,483
+2020-09-01,chronic obstructive pulmonary disease (copd),inpatient discharges,449
+2020-10-01,chronic obstructive pulmonary disease (copd),inpatient discharges,486
+2020-11-01,chronic obstructive pulmonary disease (copd),inpatient discharges,617
+2020-12-01,chronic obstructive pulmonary disease (copd),inpatient discharges,730
+2021-01-01,chronic obstructive pulmonary disease (copd),inpatient discharges,814
+2021-02-01,chronic obstructive pulmonary disease (copd),inpatient discharges,557
+2021-03-01,chronic obstructive pulmonary disease (copd),inpatient discharges,569
+2021-04-01,chronic obstructive pulmonary disease (copd),inpatient discharges,522
+2021-05-01,chronic obstructive pulmonary disease (copd),inpatient discharges,463
+2021-06-01,chronic obstructive pulmonary disease (copd),inpatient discharges,471
+2021-07-01,chronic obstructive pulmonary disease (copd),inpatient discharges,483
+2021-08-01,chronic obstructive pulmonary disease (copd),inpatient discharges,540
+2021-09-01,chronic obstructive pulmonary disease (copd),inpatient discharges,522
+2021-10-01,chronic obstructive pulmonary disease (copd),inpatient discharges,570
+2021-11-01,chronic obstructive pulmonary disease (copd),inpatient discharges,548
+2021-12-01,chronic obstructive pulmonary disease (copd),inpatient discharges,634
+2020-04-01,covid-19,inpatient discharges,1611
+2020-05-01,covid-19,inpatient discharges,1651
+2020-06-01,covid-19,inpatient discharges,1526
+2020-07-01,covid-19,inpatient discharges,2812
+2020-08-01,covid-19,inpatient discharges,2781
+2020-09-01,covid-19,inpatient discharges,1501
+2020-10-01,covid-19,inpatient discharges,1039
+2020-11-01,covid-19,inpatient discharges,1761
+2020-12-01,covid-19,inpatient discharges,8799
+2021-01-01,covid-19,inpatient discharges,14401
+2021-02-01,covid-19,inpatient discharges,5797
+2021-03-01,covid-19,inpatient discharges,1627
+2021-04-01,covid-19,inpatient discharges,607
+2021-05-01,covid-19,inpatient discharges,410
+2021-06-01,covid-19,inpatient discharges,266
+2021-07-01,covid-19,inpatient discharges,537
+2021-08-01,covid-19,inpatient discharges,2592
+2021-09-01,covid-19,inpatient discharges,3411
+2021-10-01,covid-19,inpatient discharges,2101
+2021-11-01,covid-19,inpatient discharges,1871
+2021-12-01,covid-19,inpatient discharges,1785
+2018-01-01,depression,inpatient discharges,820
+2018-02-01,depression,inpatient discharges,645
+2018-03-01,depression,inpatient discharges,629
+2018-04-01,depression,inpatient discharges,582
+2018-05-01,depression,inpatient discharges,573
+2018-06-01,depression,inpatient discharges,534
+2018-07-01,depression,inpatient discharges,534
+2018-08-01,depression,inpatient discharges,542
+2018-09-01,depression,inpatient discharges,512
+2018-10-01,depression,inpatient discharges,523
+2018-11-01,depression,inpatient discharges,533
+2018-12-01,depression,inpatient discharges,625
+2019-01-01,depression,inpatient discharges,674
+2019-02-01,depression,inpatient discharges,618
+2019-03-01,depression,inpatient discharges,669
+2019-04-01,depression,inpatient discharges,591
+2019-05-01,depression,inpatient discharges,546
+2019-06-01,depression,inpatient discharges,563
+2019-07-01,depression,inpatient discharges,530
+2019-08-01,depression,inpatient discharges,471
+2019-09-01,depression,inpatient discharges,487
+2019-10-01,depression,inpatient discharges,583
+2019-11-01,depression,inpatient discharges,510
+2019-12-01,depression,inpatient discharges,647
+2020-01-01,depression,inpatient discharges,651
+2020-02-01,depression,inpatient discharges,630
+2020-03-01,depression,inpatient discharges,588
+2020-04-01,depression,inpatient discharges,613
+2020-05-01,depression,inpatient discharges,604
+2020-06-01,depression,inpatient discharges,591
+2020-07-01,depression,inpatient discharges,687
+2020-08-01,depression,inpatient discharges,648
+2020-09-01,depression,inpatient discharges,595
+2020-10-01,depression,inpatient discharges,596
+2020-11-01,depression,inpatient discharges,673
+2020-12-01,depression,inpatient discharges,1270
+2021-01-01,depression,inpatient discharges,1524
+2021-02-01,depression,inpatient discharges,888
+2021-03-01,depression,inpatient discharges,681
+2021-04-01,depression,inpatient discharges,546
+2021-05-01,depression,inpatient discharges,542
+2021-06-01,depression,inpatient discharges,511
+2021-07-01,depression,inpatient discharges,570
+2021-08-01,depression,inpatient discharges,696
+2021-09-01,depression,inpatient discharges,772
+2021-10-01,depression,inpatient discharges,676
+2021-11-01,depression,inpatient discharges,600
+2021-12-01,depression,inpatient discharges,664
+2018-01-01,diabetes,inpatient discharges,3464
+2018-02-01,diabetes,inpatient discharges,2679
+2018-03-01,diabetes,inpatient discharges,2902
+2018-04-01,diabetes,inpatient discharges,2446
+2018-05-01,diabetes,inpatient discharges,2392
+2018-06-01,diabetes,inpatient discharges,2266
+2018-07-01,diabetes,inpatient discharges,2224
+2018-08-01,diabetes,inpatient discharges,2209
+2018-09-01,diabetes,inpatient discharges,2091
+2018-10-01,diabetes,inpatient discharges,2245
+2018-11-01,diabetes,inpatient discharges,2382
+2018-12-01,diabetes,inpatient discharges,2727
+2019-01-01,diabetes,inpatient discharges,2929
+2019-02-01,diabetes,inpatient discharges,2682
+2019-03-01,diabetes,inpatient discharges,2840
+2019-04-01,diabetes,inpatient discharges,2499
+2019-05-01,diabetes,inpatient discharges,2489
+2019-06-01,diabetes,inpatient discharges,2265
+2019-07-01,diabetes,inpatient discharges,2303
+2019-08-01,diabetes,inpatient discharges,2185
+2019-09-01,diabetes,inpatient discharges,2169
+2019-10-01,diabetes,inpatient discharges,2373
+2019-11-01,diabetes,inpatient discharges,2378
+2019-12-01,diabetes,inpatient discharges,2721
+2020-01-01,diabetes,inpatient discharges,3145
+2020-02-01,diabetes,inpatient discharges,2832
+2020-03-01,diabetes,inpatient discharges,2891
+2020-04-01,diabetes,inpatient discharges,3062
+2020-05-01,diabetes,inpatient discharges,2931
+2020-06-01,diabetes,inpatient discharges,2888
+2020-07-01,diabetes,inpatient discharges,3696
+2020-08-01,diabetes,inpatient discharges,3675
+2020-09-01,diabetes,inpatient discharges,2859
+2020-10-01,diabetes,inpatient discharges,2785
+2020-11-01,diabetes,inpatient discharges,3283
+2020-12-01,diabetes,inpatient discharges,7399
+2021-01-01,diabetes,inpatient discharges,10769
+2021-02-01,diabetes,inpatient discharges,5643
+2021-03-01,diabetes,inpatient discharges,3658
+2021-04-01,diabetes,inpatient discharges,2637
+2021-05-01,diabetes,inpatient discharges,2580
+2021-06-01,diabetes,inpatient discharges,2372
+2021-07-01,diabetes,inpatient discharges,2499
+2021-08-01,diabetes,inpatient discharges,3546
+2021-09-01,diabetes,inpatient discharges,3901
+2021-10-01,diabetes,inpatient discharges,3510
+2021-11-01,diabetes,inpatient discharges,3346
+2021-12-01,diabetes,inpatient discharges,3803
+2018-01-01,homeless,inpatient discharges,124
+2018-02-01,homeless,inpatient discharges,81
+2018-03-01,homeless,inpatient discharges,73
+2018-04-01,homeless,inpatient discharges,76
+2018-05-01,homeless,inpatient discharges,85
+2018-06-01,homeless,inpatient discharges,79
+2018-07-01,homeless,inpatient discharges,101
+2018-08-01,homeless,inpatient discharges,98
+2018-09-01,homeless,inpatient discharges,98
+2018-10-01,homeless,inpatient discharges,100
+2018-11-01,homeless,inpatient discharges,85
+2018-12-01,homeless,inpatient discharges,99
+2019-01-01,homeless,inpatient discharges,126
+2019-02-01,homeless,inpatient discharges,119
+2019-03-01,homeless,inpatient discharges,110
+2019-04-01,homeless,inpatient discharges,94
+2019-05-01,homeless,inpatient discharges,106
+2019-06-01,homeless,inpatient discharges,90
+2019-07-01,homeless,inpatient discharges,105
+2019-08-01,homeless,inpatient discharges,102
+2019-09-01,homeless,inpatient discharges,104
+2019-10-01,homeless,inpatient discharges,111
+2019-11-01,homeless,inpatient discharges,105
+2019-12-01,homeless,inpatient discharges,107
+2020-01-01,homeless,inpatient discharges,136
+2020-02-01,homeless,inpatient discharges,109
+2020-03-01,homeless,inpatient discharges,132
+2020-04-01,homeless,inpatient discharges,120
+2020-05-01,homeless,inpatient discharges,118
+2020-06-01,homeless,inpatient discharges,110
+2020-07-01,homeless,inpatient discharges,127
+2020-08-01,homeless,inpatient discharges,145
+2020-09-01,homeless,inpatient discharges,106
+2020-10-01,homeless,inpatient discharges,114
+2020-11-01,homeless,inpatient discharges,119
+2020-12-01,homeless,inpatient discharges,172
+2021-01-01,homeless,inpatient discharges,226
+2021-02-01,homeless,inpatient discharges,140
+2021-03-01,homeless,inpatient discharges,124
+2021-04-01,homeless,inpatient discharges,117
+2021-05-01,homeless,inpatient discharges,118
+2021-06-01,homeless,inpatient discharges,93
+2021-07-01,homeless,inpatient discharges,127
+2021-08-01,homeless,inpatient discharges,174
+2021-09-01,homeless,inpatient discharges,164
+2021-10-01,homeless,inpatient discharges,156
+2021-11-01,homeless,inpatient discharges,172
+2021-12-01,homeless,inpatient discharges,169
+2018-01-01,hypertension,inpatient discharges,6180
+2018-02-01,hypertension,inpatient discharges,4576
+2018-03-01,hypertension,inpatient discharges,5137
+2018-04-01,hypertension,inpatient discharges,4253
+2018-05-01,hypertension,inpatient discharges,4171
+2018-06-01,hypertension,inpatient discharges,3925
+2018-07-01,hypertension,inpatient discharges,3931
+2018-08-01,hypertension,inpatient discharges,3940
+2018-09-01,hypertension,inpatient discharges,3596
+2018-10-01,hypertension,inpatient discharges,3892
+2018-11-01,hypertension,inpatient discharges,4221
+2018-12-01,hypertension,inpatient discharges,4751
+2019-01-01,hypertension,inpatient discharges,5157
+2019-02-01,hypertension,inpatient discharges,4636
+2019-03-01,hypertension,inpatient discharges,5068
+2019-04-01,hypertension,inpatient discharges,4437
+2019-05-01,hypertension,inpatient discharges,4358
+2019-06-01,hypertension,inpatient discharges,3991
+2019-07-01,hypertension,inpatient discharges,3985
+2019-08-01,hypertension,inpatient discharges,3818
+2019-09-01,hypertension,inpatient discharges,3790
+2019-10-01,hypertension,inpatient discharges,4100
+2019-11-01,hypertension,inpatient discharges,4125
+2019-12-01,hypertension,inpatient discharges,4652
+2020-01-01,hypertension,inpatient discharges,5336
+2020-02-01,hypertension,inpatient discharges,4844
+2020-03-01,hypertension,inpatient discharges,4989
+2020-04-01,hypertension,inpatient discharges,4912
+2020-05-01,hypertension,inpatient discharges,4674
+2020-06-01,hypertension,inpatient discharges,4483
+2020-07-01,hypertension,inpatient discharges,5567
+2020-08-01,hypertension,inpatient discharges,5387
+2020-09-01,hypertension,inpatient discharges,4474
+2020-10-01,hypertension,inpatient discharges,4357
+2020-11-01,hypertension,inpatient discharges,5224
+2020-12-01,hypertension,inpatient discharges,10774
+2021-01-01,hypertension,inpatient discharges,14802
+2021-02-01,hypertension,inpatient discharges,7860
+2021-03-01,hypertension,inpatient discharges,5441
+2021-04-01,hypertension,inpatient discharges,4245
+2021-05-01,hypertension,inpatient discharges,4193
+2021-06-01,hypertension,inpatient discharges,3850
+2021-07-01,hypertension,inpatient discharges,4248
+2021-08-01,hypertension,inpatient discharges,5509
+2021-09-01,hypertension,inpatient discharges,5980
+2021-10-01,hypertension,inpatient discharges,5568
+2021-11-01,hypertension,inpatient discharges,5436
+2021-12-01,hypertension,inpatient discharges,6052
+2018-01-01,mood disorders (excluding depression),inpatient discharges,112
+2018-02-01,mood disorders (excluding depression),inpatient discharges,95
+2018-03-01,mood disorders (excluding depression),inpatient discharges,99
+2018-04-01,mood disorders (excluding depression),inpatient discharges,88
+2018-05-01,mood disorders (excluding depression),inpatient discharges,86
+2018-06-01,mood disorders (excluding depression),inpatient discharges,100
+2018-07-01,mood disorders (excluding depression),inpatient discharges,88
+2018-08-01,mood disorders (excluding depression),inpatient discharges,71
+2018-09-01,mood disorders (excluding depression),inpatient discharges,57
+2018-10-01,mood disorders (excluding depression),inpatient discharges,90
+2018-11-01,mood disorders (excluding depression),inpatient discharges,87
+2018-12-01,mood disorders (excluding depression),inpatient discharges,100
+2019-01-01,mood disorders (excluding depression),inpatient discharges,90
+2019-02-01,mood disorders (excluding depression),inpatient discharges,90
+2019-03-01,mood disorders (excluding depression),inpatient discharges,113
+2019-04-01,mood disorders (excluding depression),inpatient discharges,102
+2019-05-01,mood disorders (excluding depression),inpatient discharges,98
+2019-06-01,mood disorders (excluding depression),inpatient discharges,69
+2019-07-01,mood disorders (excluding depression),inpatient discharges,72
+2019-08-01,mood disorders (excluding depression),inpatient discharges,92
+2019-09-01,mood disorders (excluding depression),inpatient discharges,99
+2019-10-01,mood disorders (excluding depression),inpatient discharges,97
+2019-11-01,mood disorders (excluding depression),inpatient discharges,92
+2019-12-01,mood disorders (excluding depression),inpatient discharges,103
+2020-01-01,mood disorders (excluding depression),inpatient discharges,106
+2020-02-01,mood disorders (excluding depression),inpatient discharges,117
+2020-03-01,mood disorders (excluding depression),inpatient discharges,130
+2020-04-01,mood disorders (excluding depression),inpatient discharges,128
+2020-05-01,mood disorders (excluding depression),inpatient discharges,119
+2020-06-01,mood disorders (excluding depression),inpatient discharges,123
+2020-07-01,mood disorders (excluding depression),inpatient discharges,118
+2020-08-01,mood disorders (excluding depression),inpatient discharges,101
+2020-09-01,mood disorders (excluding depression),inpatient discharges,101
+2020-10-01,mood disorders (excluding depression),inpatient discharges,120
+2020-11-01,mood disorders (excluding depression),inpatient discharges,119
+2020-12-01,mood disorders (excluding depression),inpatient discharges,184
+2021-01-01,mood disorders (excluding depression),inpatient discharges,279
+2021-02-01,mood disorders (excluding depression),inpatient discharges,164
+2021-03-01,mood disorders (excluding depression),inpatient discharges,119
+2021-04-01,mood disorders (excluding depression),inpatient discharges,98
+2021-05-01,mood disorders (excluding depression),inpatient discharges,101
+2021-06-01,mood disorders (excluding depression),inpatient discharges,95
+2021-07-01,mood disorders (excluding depression),inpatient discharges,90
+2021-08-01,mood disorders (excluding depression),inpatient discharges,133
+2021-09-01,mood disorders (excluding depression),inpatient discharges,133
+2021-10-01,mood disorders (excluding depression),inpatient discharges,122
+2021-11-01,mood disorders (excluding depression),inpatient discharges,114
+2021-12-01,mood disorders (excluding depression),inpatient discharges,131
+2018-01-01,non-mood psychotic disorders,inpatient discharges,199
+2018-02-01,non-mood psychotic disorders,inpatient discharges,135
+2018-03-01,non-mood psychotic disorders,inpatient discharges,134
+2018-04-01,non-mood psychotic disorders,inpatient discharges,125
+2018-05-01,non-mood psychotic disorders,inpatient discharges,134
+2018-06-01,non-mood psychotic disorders,inpatient discharges,97
+2018-07-01,non-mood psychotic disorders,inpatient discharges,132
+2018-08-01,non-mood psychotic disorders,inpatient discharges,113
+2018-09-01,non-mood psychotic disorders,inpatient discharges,97
+2018-10-01,non-mood psychotic disorders,inpatient discharges,99
+2018-11-01,non-mood psychotic disorders,inpatient discharges,106
+2018-12-01,non-mood psychotic disorders,inpatient discharges,130
+2019-01-01,non-mood psychotic disorders,inpatient discharges,144
+2019-02-01,non-mood psychotic disorders,inpatient discharges,128
+2019-03-01,non-mood psychotic disorders,inpatient discharges,127
+2019-04-01,non-mood psychotic disorders,inpatient discharges,126
+2019-05-01,non-mood psychotic disorders,inpatient discharges,134
+2019-06-01,non-mood psychotic disorders,inpatient discharges,110
+2019-07-01,non-mood psychotic disorders,inpatient discharges,110
+2019-08-01,non-mood psychotic disorders,inpatient discharges,128
+2019-09-01,non-mood psychotic disorders,inpatient discharges,117
+2019-10-01,non-mood psychotic disorders,inpatient discharges,129
+2019-11-01,non-mood psychotic disorders,inpatient discharges,140
+2019-12-01,non-mood psychotic disorders,inpatient discharges,121
+2020-01-01,non-mood psychotic disorders,inpatient discharges,142
+2020-02-01,non-mood psychotic disorders,inpatient discharges,153
+2020-03-01,non-mood psychotic disorders,inpatient discharges,184
+2020-04-01,non-mood psychotic disorders,inpatient discharges,196
+2020-05-01,non-mood psychotic disorders,inpatient discharges,185
+2020-06-01,non-mood psychotic disorders,inpatient discharges,173
+2020-07-01,non-mood psychotic disorders,inpatient discharges,187
+2020-08-01,non-mood psychotic disorders,inpatient discharges,196
+2020-09-01,non-mood psychotic disorders,inpatient discharges,134
+2020-10-01,non-mood psychotic disorders,inpatient discharges,134
+2020-11-01,non-mood psychotic disorders,inpatient discharges,185
+2020-12-01,non-mood psychotic disorders,inpatient discharges,310
+2021-01-01,non-mood psychotic disorders,inpatient discharges,404
+2021-02-01,non-mood psychotic disorders,inpatient discharges,198
+2021-03-01,non-mood psychotic disorders,inpatient discharges,173
+2021-04-01,non-mood psychotic disorders,inpatient discharges,148
+2021-05-01,non-mood psychotic disorders,inpatient discharges,112
+2021-06-01,non-mood psychotic disorders,inpatient discharges,130
+2021-07-01,non-mood psychotic disorders,inpatient discharges,116
+2021-08-01,non-mood psychotic disorders,inpatient discharges,183
+2021-09-01,non-mood psychotic disorders,inpatient discharges,177
+2021-10-01,non-mood psychotic disorders,inpatient discharges,160
+2021-11-01,non-mood psychotic disorders,inpatient discharges,178
+2021-12-01,non-mood psychotic disorders,inpatient discharges,190
+2018-01-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,14
+2018-02-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,17
+2018-03-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,18
+2018-04-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,15
+2018-05-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,19
+2018-06-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,15
+2018-07-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,15
+2018-08-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,9
+2018-09-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2018-10-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,7
+2018-11-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,19
+2018-12-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,11
+2019-01-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,16
+2019-02-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,13
+2019-03-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,19
+2019-04-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2019-05-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,13
+2019-06-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,12
+2019-07-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2019-08-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2019-09-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,12
+2019-10-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,13
+2019-11-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,19
+2019-12-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,18
+2020-01-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,15
+2020-02-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,20
+2020-03-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,13
+2020-04-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,11
+2020-05-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,17
+2020-06-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,11
+2020-07-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,9
+2020-08-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,15
+2020-09-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,7
+2020-10-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,8
+2020-11-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,14
+2020-12-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,28
+2021-01-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,21
+2021-02-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,22
+2021-03-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,9
+2021-04-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,19
+2021-05-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,9
+2021-06-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2021-07-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,14
+2021-08-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,10
+2021-09-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,18
+2021-10-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,11
+2021-11-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,18
+2021-12-01,nonpsychotic disorders (excluding anxiety),inpatient discharges,17
+2018-01-01,obesity,inpatient discharges,949
+2018-02-01,obesity,inpatient discharges,753
+2018-03-01,obesity,inpatient discharges,828
+2018-04-01,obesity,inpatient discharges,664
+2018-05-01,obesity,inpatient discharges,665
+2018-06-01,obesity,inpatient discharges,616
+2018-07-01,obesity,inpatient discharges,605
+2018-08-01,obesity,inpatient discharges,627
+2018-09-01,obesity,inpatient discharges,579
+2018-10-01,obesity,inpatient discharges,603
+2018-11-01,obesity,inpatient discharges,635
+2018-12-01,obesity,inpatient discharges,738
+2019-01-01,obesity,inpatient discharges,772
+2019-02-01,obesity,inpatient discharges,730
+2019-03-01,obesity,inpatient discharges,811
+2019-04-01,obesity,inpatient discharges,727
+2019-05-01,obesity,inpatient discharges,660
+2019-06-01,obesity,inpatient discharges,650
+2019-07-01,obesity,inpatient discharges,609
+2019-08-01,obesity,inpatient discharges,613
+2019-09-01,obesity,inpatient discharges,602
+2019-10-01,obesity,inpatient discharges,636
+2019-11-01,obesity,inpatient discharges,598
+2019-12-01,obesity,inpatient discharges,712
+2020-01-01,obesity,inpatient discharges,875
+2020-02-01,obesity,inpatient discharges,792
+2020-03-01,obesity,inpatient discharges,795
+2020-04-01,obesity,inpatient discharges,874
+2020-05-01,obesity,inpatient discharges,807
+2020-06-01,obesity,inpatient discharges,867
+2020-07-01,obesity,inpatient discharges,1350
+2020-08-01,obesity,inpatient discharges,1383
+2020-09-01,obesity,inpatient discharges,972
+2020-10-01,obesity,inpatient discharges,897
+2020-11-01,obesity,inpatient discharges,1131
+2020-12-01,obesity,inpatient discharges,2911
+2021-01-01,obesity,inpatient discharges,4581
+2021-02-01,obesity,inpatient discharges,2233
+2021-03-01,obesity,inpatient discharges,1293
+2021-04-01,obesity,inpatient discharges,821
+2021-05-01,obesity,inpatient discharges,867
+2021-06-01,obesity,inpatient discharges,774
+2021-07-01,obesity,inpatient discharges,858
+2021-08-01,obesity,inpatient discharges,1592
+2021-09-01,obesity,inpatient discharges,1928
+2021-10-01,obesity,inpatient discharges,1436
+2021-11-01,obesity,inpatient discharges,1348
+2021-12-01,obesity,inpatient discharges,1349
+2018-01-01,pneumonia,inpatient discharges,4569
+2018-02-01,pneumonia,inpatient discharges,3379
+2018-03-01,pneumonia,inpatient discharges,3683
+2018-04-01,pneumonia,inpatient discharges,2994
+2018-05-01,pneumonia,inpatient discharges,2799
+2018-06-01,pneumonia,inpatient discharges,2670
+2018-07-01,pneumonia,inpatient discharges,2606
+2018-08-01,pneumonia,inpatient discharges,2603
+2018-09-01,pneumonia,inpatient discharges,2468
+2018-10-01,pneumonia,inpatient discharges,2551
+2018-11-01,pneumonia,inpatient discharges,2876
+2018-12-01,pneumonia,inpatient discharges,3195
+2019-01-01,pneumonia,inpatient discharges,3589
+2019-02-01,pneumonia,inpatient discharges,3204
+2019-03-01,pneumonia,inpatient discharges,3641
+2019-04-01,pneumonia,inpatient discharges,3072
+2019-05-01,pneumonia,inpatient discharges,2955
+2019-06-01,pneumonia,inpatient discharges,2731
+2019-07-01,pneumonia,inpatient discharges,2594
+2019-08-01,pneumonia,inpatient discharges,2413
+2019-09-01,pneumonia,inpatient discharges,2459
+2019-10-01,pneumonia,inpatient discharges,2653
+2019-11-01,pneumonia,inpatient discharges,2659
+2019-12-01,pneumonia,inpatient discharges,3116
+2020-01-01,pneumonia,inpatient discharges,3754
+2020-02-01,pneumonia,inpatient discharges,3481
+2020-03-01,pneumonia,inpatient discharges,3831
+2020-04-01,pneumonia,inpatient discharges,4195
+2020-05-01,pneumonia,inpatient discharges,3888
+2020-06-01,pneumonia,inpatient discharges,3656
+2020-07-01,pneumonia,inpatient discharges,5110
+2020-08-01,pneumonia,inpatient discharges,4959
+2020-09-01,pneumonia,inpatient discharges,3791
+2020-10-01,pneumonia,inpatient discharges,3476
+2020-11-01,pneumonia,inpatient discharges,4354
+2020-12-01,pneumonia,inpatient discharges,11244
+2021-01-01,pneumonia,inpatient discharges,16657
+2021-02-01,pneumonia,inpatient discharges,8076
+2021-03-01,pneumonia,inpatient discharges,4357
+2021-04-01,pneumonia,inpatient discharges,3079
+2021-05-01,pneumonia,inpatient discharges,2941
+2021-06-01,pneumonia,inpatient discharges,2722
+2021-07-01,pneumonia,inpatient discharges,3080
+2021-08-01,pneumonia,inpatient discharges,5102
+2021-09-01,pneumonia,inpatient discharges,5839
+2021-10-01,pneumonia,inpatient discharges,4839
+2021-11-01,pneumonia,inpatient discharges,4682
+2021-12-01,pneumonia,inpatient discharges,4964
+2018-01-01,respiratory arrest/failure,inpatient discharges,6465
+2018-02-01,respiratory arrest/failure,inpatient discharges,4874
+2018-03-01,respiratory arrest/failure,inpatient discharges,5245
+2018-04-01,respiratory arrest/failure,inpatient discharges,4489
+2018-05-01,respiratory arrest/failure,inpatient discharges,4345
+2018-06-01,respiratory arrest/failure,inpatient discharges,4133
+2018-07-01,respiratory arrest/failure,inpatient discharges,4100
+2018-08-01,respiratory arrest/failure,inpatient discharges,4131
+2018-09-01,respiratory arrest/failure,inpatient discharges,3887
+2018-10-01,respiratory arrest/failure,inpatient discharges,4066
+2018-11-01,respiratory arrest/failure,inpatient discharges,4357
+2018-12-01,respiratory arrest/failure,inpatient discharges,4936
+2019-01-01,respiratory arrest/failure,inpatient discharges,5380
+2019-02-01,respiratory arrest/failure,inpatient discharges,4804
+2019-03-01,respiratory arrest/failure,inpatient discharges,5301
+2019-04-01,respiratory arrest/failure,inpatient discharges,4610
+2019-05-01,respiratory arrest/failure,inpatient discharges,4553
+2019-06-01,respiratory arrest/failure,inpatient discharges,4251
+2019-07-01,respiratory arrest/failure,inpatient discharges,4158
+2019-08-01,respiratory arrest/failure,inpatient discharges,4022
+2019-09-01,respiratory arrest/failure,inpatient discharges,4039
+2019-10-01,respiratory arrest/failure,inpatient discharges,4292
+2019-11-01,respiratory arrest/failure,inpatient discharges,4272
+2019-12-01,respiratory arrest/failure,inpatient discharges,4856
+2020-01-01,respiratory arrest/failure,inpatient discharges,5625
+2020-02-01,respiratory arrest/failure,inpatient discharges,5189
+2020-03-01,respiratory arrest/failure,inpatient discharges,5273
+2020-04-01,respiratory arrest/failure,inpatient discharges,5236
+2020-05-01,respiratory arrest/failure,inpatient discharges,4957
+2020-06-01,respiratory arrest/failure,inpatient discharges,4750
+2020-07-01,respiratory arrest/failure,inpatient discharges,5985
+2020-08-01,respiratory arrest/failure,inpatient discharges,5837
+2020-09-01,respiratory arrest/failure,inpatient discharges,4845
+2020-10-01,respiratory arrest/failure,inpatient discharges,4776
+2020-11-01,respiratory arrest/failure,inpatient discharges,5459
+2020-12-01,respiratory arrest/failure,inpatient discharges,10992
+2021-01-01,respiratory arrest/failure,inpatient discharges,14350
+2021-02-01,respiratory arrest/failure,inpatient discharges,7664
+2021-03-01,respiratory arrest/failure,inpatient discharges,5536
+2021-04-01,respiratory arrest/failure,inpatient discharges,4442
+2021-05-01,respiratory arrest/failure,inpatient discharges,4403
+2021-06-01,respiratory arrest/failure,inpatient discharges,4173
+2021-07-01,respiratory arrest/failure,inpatient discharges,4468
+2021-08-01,respiratory arrest/failure,inpatient discharges,5726
+2021-09-01,respiratory arrest/failure,inpatient discharges,6069
+2021-10-01,respiratory arrest/failure,inpatient discharges,5723
+2021-11-01,respiratory arrest/failure,inpatient discharges,5572
+2021-12-01,respiratory arrest/failure,inpatient discharges,6141
+2018-01-01,sepsis,inpatient discharges,4765
+2018-02-01,sepsis,inpatient discharges,3507
+2018-03-01,sepsis,inpatient discharges,3861
+2018-04-01,sepsis,inpatient discharges,3212
+2018-05-01,sepsis,inpatient discharges,3037
+2018-06-01,sepsis,inpatient discharges,2864
+2018-07-01,sepsis,inpatient discharges,2860
+2018-08-01,sepsis,inpatient discharges,2945
+2018-09-01,sepsis,inpatient discharges,2712
+2018-10-01,sepsis,inpatient discharges,2925
+2018-11-01,sepsis,inpatient discharges,3006
+2018-12-01,sepsis,inpatient discharges,3495
+2019-01-01,sepsis,inpatient discharges,3870
+2019-02-01,sepsis,inpatient discharges,3392
+2019-03-01,sepsis,inpatient discharges,3769
+2019-04-01,sepsis,inpatient discharges,3204
+2019-05-01,sepsis,inpatient discharges,3200
+2019-06-01,sepsis,inpatient discharges,2919
+2019-07-01,sepsis,inpatient discharges,2863
+2019-08-01,sepsis,inpatient discharges,2689
+2019-09-01,sepsis,inpatient discharges,2726
+2019-10-01,sepsis,inpatient discharges,2969
+2019-11-01,sepsis,inpatient discharges,3016
+2019-12-01,sepsis,inpatient discharges,3408
+2020-01-01,sepsis,inpatient discharges,4106
+2020-02-01,sepsis,inpatient discharges,3650
+2020-03-01,sepsis,inpatient discharges,3863
+2020-04-01,sepsis,inpatient discharges,4077
+2020-05-01,sepsis,inpatient discharges,3848
+2020-06-01,sepsis,inpatient discharges,3609
+2020-07-01,sepsis,inpatient discharges,4674
+2020-08-01,sepsis,inpatient discharges,4652
+2020-09-01,sepsis,inpatient discharges,3760
+2020-10-01,sepsis,inpatient discharges,3580
+2020-11-01,sepsis,inpatient discharges,4195
+2020-12-01,sepsis,inpatient discharges,8547
+2021-01-01,sepsis,inpatient discharges,12183
+2021-02-01,sepsis,inpatient discharges,6742
+2021-03-01,sepsis,inpatient discharges,4439
+2021-04-01,sepsis,inpatient discharges,3248
+2021-05-01,sepsis,inpatient discharges,3174
+2021-06-01,sepsis,inpatient discharges,2876
+2021-07-01,sepsis,inpatient discharges,3283
+2021-08-01,sepsis,inpatient discharges,4600
+2021-09-01,sepsis,inpatient discharges,5120
+2021-10-01,sepsis,inpatient discharges,4509
+2021-11-01,sepsis,inpatient discharges,4408
+2021-12-01,sepsis,inpatient discharges,4729
+2018-01-01,stroke,inpatient discharges,543
+2018-02-01,stroke,inpatient discharges,447
+2018-03-01,stroke,inpatient discharges,490
+2018-04-01,stroke,inpatient discharges,441
+2018-05-01,stroke,inpatient discharges,396
+2018-06-01,stroke,inpatient discharges,405
+2018-07-01,stroke,inpatient discharges,376
+2018-08-01,stroke,inpatient discharges,393
+2018-09-01,stroke,inpatient discharges,392
+2018-10-01,stroke,inpatient discharges,354
+2018-11-01,stroke,inpatient discharges,436
+2018-12-01,stroke,inpatient discharges,471
+2019-01-01,stroke,inpatient discharges,502
+2019-02-01,stroke,inpatient discharges,434
+2019-03-01,stroke,inpatient discharges,475
+2019-04-01,stroke,inpatient discharges,457
+2019-05-01,stroke,inpatient discharges,427
+2019-06-01,stroke,inpatient discharges,403
+2019-07-01,stroke,inpatient discharges,373
+2019-08-01,stroke,inpatient discharges,390
+2019-09-01,stroke,inpatient discharges,382
+2019-10-01,stroke,inpatient discharges,409
+2019-11-01,stroke,inpatient discharges,397
+2019-12-01,stroke,inpatient discharges,461
+2020-01-01,stroke,inpatient discharges,524
+2020-02-01,stroke,inpatient discharges,485
+2020-03-01,stroke,inpatient discharges,460
+2020-04-01,stroke,inpatient discharges,401
+2020-05-01,stroke,inpatient discharges,379
+2020-06-01,stroke,inpatient discharges,446
+2020-07-01,stroke,inpatient discharges,433
+2020-08-01,stroke,inpatient discharges,493
+2020-09-01,stroke,inpatient discharges,440
+2020-10-01,stroke,inpatient discharges,415
+2020-11-01,stroke,inpatient discharges,459
+2020-12-01,stroke,inpatient discharges,673
+2021-01-01,stroke,inpatient discharges,962
+2021-02-01,stroke,inpatient discharges,647
+2021-03-01,stroke,inpatient discharges,553
+2021-04-01,stroke,inpatient discharges,448
+2021-05-01,stroke,inpatient discharges,456
+2021-06-01,stroke,inpatient discharges,430
+2021-07-01,stroke,inpatient discharges,466
+2021-08-01,stroke,inpatient discharges,520
+2021-09-01,stroke,inpatient discharges,522
+2021-10-01,stroke,inpatient discharges,520
+2021-11-01,stroke,inpatient discharges,492
+2021-12-01,stroke,inpatient discharges,560
+2018-01-01,substance use disorders,inpatient discharges,1355
+2018-02-01,substance use disorders,inpatient discharges,1031
+2018-03-01,substance use disorders,inpatient discharges,1093
+2018-04-01,substance use disorders,inpatient discharges,946
+2018-05-01,substance use disorders,inpatient discharges,944
+2018-06-01,substance use disorders,inpatient discharges,894
+2018-07-01,substance use disorders,inpatient discharges,911
+2018-08-01,substance use disorders,inpatient discharges,894
+2018-09-01,substance use disorders,inpatient discharges,854
+2018-10-01,substance use disorders,inpatient discharges,906
+2018-11-01,substance use disorders,inpatient discharges,942
+2018-12-01,substance use disorders,inpatient discharges,1042
+2019-01-01,substance use disorders,inpatient discharges,1129
+2019-02-01,substance use disorders,inpatient discharges,1036
+2019-03-01,substance use disorders,inpatient discharges,1093
+2019-04-01,substance use disorders,inpatient discharges,947
+2019-05-01,substance use disorders,inpatient discharges,940
+2019-06-01,substance use disorders,inpatient discharges,880
+2019-07-01,substance use disorders,inpatient discharges,961
+2019-08-01,substance use disorders,inpatient discharges,850
+2019-09-01,substance use disorders,inpatient discharges,883
+2019-10-01,substance use disorders,inpatient discharges,951
+2019-11-01,substance use disorders,inpatient discharges,916
+2019-12-01,substance use disorders,inpatient discharges,1053
+2020-01-01,substance use disorders,inpatient discharges,1183
+2020-02-01,substance use disorders,inpatient discharges,1036
+2020-03-01,substance use disorders,inpatient discharges,1080
+2020-04-01,substance use disorders,inpatient discharges,896
+2020-05-01,substance use disorders,inpatient discharges,905
+2020-06-01,substance use disorders,inpatient discharges,913
+2020-07-01,substance use disorders,inpatient discharges,1116
+2020-08-01,substance use disorders,inpatient discharges,1040
+2020-09-01,substance use disorders,inpatient discharges,962
+2020-10-01,substance use disorders,inpatient discharges,973
+2020-11-01,substance use disorders,inpatient discharges,1119
+2020-12-01,substance use disorders,inpatient discharges,1541
+2021-01-01,substance use disorders,inpatient discharges,1907
+2021-02-01,substance use disorders,inpatient discharges,1304
+2021-03-01,substance use disorders,inpatient discharges,1160
+2021-04-01,substance use disorders,inpatient discharges,997
+2021-05-01,substance use disorders,inpatient discharges,989
+2021-06-01,substance use disorders,inpatient discharges,954
+2021-07-01,substance use disorders,inpatient discharges,1028
+2021-08-01,substance use disorders,inpatient discharges,1198
+2021-09-01,substance use disorders,inpatient discharges,1291
+2021-10-01,substance use disorders,inpatient discharges,1294
+2021-11-01,substance use disorders,inpatient discharges,1197
+2021-12-01,substance use disorders,inpatient discharges,1360
+2018-01-01,unspecified mental disorders,inpatient discharges,9
+2018-02-01,unspecified mental disorders,inpatient discharges,13
+2018-03-01,unspecified mental disorders,inpatient discharges,18
+2018-04-01,unspecified mental disorders,inpatient discharges,12
+2018-05-01,unspecified mental disorders,inpatient discharges,15
+2018-06-01,unspecified mental disorders,inpatient discharges,12
+2018-07-01,unspecified mental disorders,inpatient discharges,17
+2018-08-01,unspecified mental disorders,inpatient discharges,8
+2018-09-01,unspecified mental disorders,inpatient discharges,8
+2018-10-01,unspecified mental disorders,inpatient discharges,12
+2018-11-01,unspecified mental disorders,inpatient discharges,12
+2018-12-01,unspecified mental disorders,inpatient discharges,10
+2019-01-01,unspecified mental disorders,inpatient discharges,11
+2019-02-01,unspecified mental disorders,inpatient discharges,15
+2019-03-01,unspecified mental disorders,inpatient discharges,17
+2019-04-01,unspecified mental disorders,inpatient discharges,14
+2019-05-01,unspecified mental disorders,inpatient discharges,8
+2019-06-01,unspecified mental disorders,inpatient discharges,13
+2019-07-01,unspecified mental disorders,inpatient discharges,14
+2019-08-01,unspecified mental disorders,inpatient discharges,13
+2019-09-01,unspecified mental disorders,inpatient discharges,14
+2019-10-01,unspecified mental disorders,inpatient discharges,13
+2019-11-01,unspecified mental disorders,inpatient discharges,13
+2019-12-01,unspecified mental disorders,inpatient discharges,14
+2020-01-01,unspecified mental disorders,inpatient discharges,19
+2020-02-01,unspecified mental disorders,inpatient discharges,15
+2020-03-01,unspecified mental disorders,inpatient discharges,20
+2020-04-01,unspecified mental disorders,inpatient discharges,14
+2020-05-01,unspecified mental disorders,inpatient discharges,16
+2020-06-01,unspecified mental disorders,inpatient discharges,16
+2020-07-01,unspecified mental disorders,inpatient discharges,23
+2020-08-01,unspecified mental disorders,inpatient discharges,26
+2020-09-01,unspecified mental disorders,inpatient discharges,14
+2020-10-01,unspecified mental disorders,inpatient discharges,8
+2020-11-01,unspecified mental disorders,inpatient discharges,15
+2020-12-01,unspecified mental disorders,inpatient discharges,21
+2021-01-01,unspecified mental disorders,inpatient discharges,45
+2021-02-01,unspecified mental disorders,inpatient discharges,20
+2021-03-01,unspecified mental disorders,inpatient discharges,13
+2021-04-01,unspecified mental disorders,inpatient discharges,16
+2021-05-01,unspecified mental disorders,inpatient discharges,15
+2021-06-01,unspecified mental disorders,inpatient discharges,16
+2021-07-01,unspecified mental disorders,inpatient discharges,8
+2021-08-01,unspecified mental disorders,inpatient discharges,23
+2021-09-01,unspecified mental disorders,inpatient discharges,21
+2021-10-01,unspecified mental disorders,inpatient discharges,23
+2021-11-01,unspecified mental disorders,inpatient discharges,21
+2021-12-01,unspecified mental disorders,inpatient discharges,27
