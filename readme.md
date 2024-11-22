@@ -145,4 +145,9 @@
 7. **Visualisation des données** :
      
    jupyter nbconvert --execute scripts/visualization_jupiter.ipynb
+
+
+ 
+**Choix de la base de données**
+- On a choisi **PostgreSQL** pour sa compatibilité avec les données relationnelles, sa gestion des séries temporelles via TimescaleDB, et sa fiabilité pour des analyses complexes.  
     
