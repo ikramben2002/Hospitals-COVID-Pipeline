@@ -74,10 +74,11 @@
 
 ### **Défis rencontrés**
 
-- **Gestion des données manquantes et aberrantes** :
-  - Par exemple, les formats de date diffèrent entre les trois fichiers. Il a fallu créer un dictionnaire de correspondance pour les standardiser.
 - **Traitement en temps réel** :
   - Configuration de Kafka et intégration fluide avec Spark Streaming.
+- **problème de configuration de Kafka (nombre de brokers limité à 1 sur Mac)**
+  -Lors de la configuration de Kafka sur un Mac, on a constaté qu'il n'était pas possible d'ajouter plus d'un broker en raison des        limitations du système local (ressources, configuration réseau et système). Donc, On a pas pu configurer un facteur de réplication      supérieur à 1, ce qui est problématique pour la tolérance aux pannes.
+
 
 ---
 
