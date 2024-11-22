@@ -137,7 +137,11 @@
    python scripts/handle_missing_data.py
     
 
-6. **Visualisation des données** :
+6. **Calcul des métriques** :
+
+   python scripts/metrics_calculation.py
+       
+7. **Visualisation des données** :
      
    jupyter nbconvert --execute scripts/visualization_jupiter.ipynb
     
