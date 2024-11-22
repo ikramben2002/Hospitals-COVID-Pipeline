@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/benabbas/Hospitals-Covid-Data-Pipeline/output/final_data/part-00000-8cb6b706-29b4-4112-b0e3-4c2e0dab379c-c000.snappy.parquet","size":2222992,"isDir":false,"modificationTime":1732300291901,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/benabbas/Hospitals-Covid-Data-Pipeline/output/final_data/part-00001-69690b90-d016-4cf1-b156-14b9d362d688-c000.snappy.parquet","size":2295588,"isDir":false,"modificationTime":1732300292044,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/benabbas/Hospitals-Covid-Data-Pipeline/output/final_data/part-00002-5b51f8bc-2448-4b06-8864-30a0d7fa4e54-c000.snappy.parquet","size":2208790,"isDir":false,"modificationTime":1732300291901,"blockReplication":1,"blockSize":33554432,"action":"add"}
